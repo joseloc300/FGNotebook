@@ -2,10 +2,10 @@
 
 # Characters
 
-[Cammy](./cammy.md)  
-[Chun-Li](./chun-li.md)  
-[Kolin](./kolin.md)  
-[Lucia](./lucia.md)  
-[Sakura](./sakura.md)  
+[Cammy](./Cammy.md)  
+[Chun-Li](./Chun-Li.md)  
+[Kolin](./Kolin.md)  
+[Lucia](./Lucia.md)  
+[Sakura](./Sakura.md)  
 
 [Return to game select](../index.md)  
