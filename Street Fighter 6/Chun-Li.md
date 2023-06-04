@@ -24,6 +24,7 @@
 ## Hit-Confirms
 
 - st.LP, st.LP, st.LP, qcfLK  
+- st.LP, cr.LP, cr.LP, 28LK  
 - st.MP, st.LK, qcf.MK  
 
 ## Punishes
@@ -104,10 +105,10 @@ st.LP, b.HP, st.LK, qcfMK 1948 Very Hard
 6HK, 4HP, delay, qcfKK, Lv3    
 
 
-| Combo                      | Damage | Advantage | CH State       | Meter Required | Drive Gauge Required | Notes                 |
-| -------------------------- | ------ | --------- | -------------- | -------------- | -------------------- | --------------------- |
-| st.LP, st.LP, st.LP        | 810    | +5        | Punish Counter | 0              | 0                    | same for cr.LP but +4 |
-| st.LP, st.LP, st.LP, qcfLK | 1370   | +3        | Punish Counter | 0              | 0                    |                       |
+| Combo                      | Damage | Advantage | CH State | Meter Required | Drive Gauge Required | Notes                 |
+| -------------------------- | ------ | --------- | -------- | -------------- | -------------------- | --------------------- |
+| st.LP, st.LP, st.LP        | 810    | +5        | -        | 0              | 0                    | same for cr.LP but +4 |
+| st.LP, st.LP, st.LP, qcfLK | 1370   | +3        | -        | 0              | 0                    |                       |
 
 
 [Return to character select](./index.md)  
