@@ -101,6 +101,8 @@ cr.HP, qcb\*P -> HK, 22KK 2720
 cr.HP, qcb\*P -> HK, Lv1 2960  
 cr.HP, qcb\*P -> HK, Lv3 4800  
 
+cr.HP, 28KK, qcfKK, Lv2, j.c, j.HP, Lv1 4400  
+
 ### Counter Hit
 
 
