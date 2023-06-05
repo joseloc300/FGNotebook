@@ -4,8 +4,8 @@
 
 - HP (not cancelable and weak to DI)  
 - f.MP (special cancelable and safe on block but still -)  
-- cr.MK (special cancelable and safe on block but still -)  
-- cr.HK (-7 on block but can be safe if spaced out correctly)  
+- cr.MK (special cancelable but weak to DI and safe on block but still -)  
+- cr.HK (-7 on block, very punishable)  
 - 6HK (On Punish Counter causes crumple state. Only use to beat sweeps since even on normal hit its -)
 
 ## Anti-airs
@@ -49,7 +49,7 @@
 
 - 22HK  
 
-# Full Guide
+# Full Guide (WIP, not organized, might have errors)
 
 ## Hit-Confirm
 
@@ -66,9 +66,21 @@ st.LP, st.MP, st.LP, qcfKK, KK
 st.LP, st.MP, st.LP, qcfKK, Lv2, j.c,   
 st.LP, st.MP, st.LP, qcfKK, Lv3  
 
+st.LP, st.MP, st.LK, qcfLK  
 st.LP, st.MP, st.LK, qcfMK  
-st.LP, st.MP, st.LK, qcfMK  
+st.LP, st.MP, st.LK, qcfKK, etc  
 
+st.LP, st.MP, cr.MP, qcfLK  
+st.LP, st.MP, cr.MP, qcfMK  
+st.LP, st.MP, cr.MP, qcfKK, etc  
+
+st.LP, st.MP, cr.MP, 28LK 2019  
+st.LP, st.MP, cr.MP, 28MK 2160  
+st.LP, st.MP, cr.MP, 28KK, 22HK 2600  
+st.LP, st.MP, cr.MP, 28KK, Lv1 2900  
+st.LP, st.MP, cr.MP, 28KK, Lv2 ????  
+st.LP, st.MP, cr.MP, 28KK, Lv3 4280  
+st.LP, st.MP, cr.MP, Lv3 4120  
 
 
 ## All combos
@@ -81,6 +93,13 @@ st.LP, st.MP, st.LK, qcfMK
 1HK, cr.MP, 28KK, qcfKK, KK      
 1HK, cr.MP, 28KK, qcfKK, Lv2, etc  
 1HK, cr.MP, 28KK, qcfKK, Lv3  
+
+
+cr.HP, qcb\*P -> HK, qcfLK 2240  
+cr.HP, qcb\*P -> HK, 22LK 2320  
+cr.HP, qcb\*P -> HK, 22KK 2720  
+cr.HP, qcb\*P -> HK, Lv1 2960  
+cr.HP, qcb\*P -> HK, Lv3 4800  
 
 ### Counter Hit
 
