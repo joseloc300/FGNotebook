@@ -7,5 +7,6 @@
 [Kolin](./Kolin.md)  
 [Lucia](./Lucia.md)  
 [Sakura](./Sakura.md)  
+[Ryu](./Ryu.md)
 
 [Return to game select](../index.md)  
