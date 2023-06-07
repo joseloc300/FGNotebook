@@ -51,6 +51,98 @@
 
 # Full Guide (WIP, not organized, might have errors)
 
+## Pokes
+
+- HP (not cancelable and weak to DI)  
+- f.MP (special cancelable and safe on block but still -)  
+- cr.MK (special cancelable but weak to DI and safe on block but still -)  
+- cr.HK (-7 on block, very punishable)  
+- 6HK (On Punish Counter causes crumple state. Only use to beat sweeps since even on normal hit its -)
+- 46\*P
+  - charge fireball
+  - light is slower but goes ~90% screen
+  - heavy is faster but goes ~60% screen, slightly moves you forward
+  - EX is fastest, has 2 hits and goes fullscreen
+
+## Anti-airs
+
+- cr.HP (prone to trade)
+- MK (fast but specific angle)
+- HK (slow)  
+- 22K (LK is the fastest, OD for invuln)  
+
+## Pressure
+
+- st.LP/cr.LP  (can cancel into themselves, can hit-confirm)
+- st.MP (short range but +1 on block and hit confirmable on hit)  
+- 3HK (slow overhead, cant combo after, safe on block but still -)
+
+## Hit-Confirms
+
+- st.LP, st.LP, st.LP, qcfLK  
+- st.LP, cr.LP, cr.LP, 28LK  
+- st.MP, st.LK, qcf.MK  
+
+## Punishes
+
+### Fast (4 frames)
+
+- st.LP, 22HK  
+- st.LP, st.LP, st.LP, qcfLK  
+
+### Slow
+
+- cr.HP, 28HK  
+- cr.HP, Lv1  
+- cr.HP, Lv2, j.c, 2MK, 2MK, 2MK  
+- cr.HP, Lv3  
+
+### Crumple State
+
+- 6HK, 22HK  
+
+## Wall Crumple (on block)
+
+- Easy
+  - cr.MK, 28HK 1294 +28 meterless  
+  - 
+  - Lv3 3200 +6 meter dump  
+- Hard
+  - qcb\*P -> HK, 22MK 1360 +23 meterless  
+  - 
+  - qcb\*P -> HK, Lv1 1920 meter dump  
+  - qcb\*P -> HK, Lv3 3760 meter dump  
+
+## Wall Splat (on hit)
+
+- 22HK  
+
+
+
+# All combos
+
+## Wall Crumple (on block)
+
+- 22HK 960 +35  
+- cr.MK, qcf.HK 1040 +54  
+- cr.MK, 28HK 1294 +28  
+- qcb\*P -> HK, 22MK 1360 +23  
+- qcb\*P -> HK, 22KK 1680 +28  
+- qcb\*P -> HK, Lv1 1920  
+- qcb\*P -> HK, Lv2
+- qcb\*P -> HK, Lv3 3760  
+- Lv1 1360 +20  
+- Lv2, Lv2extension, 1600+?  
+- Lv3 3200 +6  
+
+## Wall Splat (on hit)
+
+- 28HK 1920 +28  
+- st.HK, 22MK 2220 +23
+- st.HK, 22KK 2500 +28  
+- st.HK, 28LK 2219 +27  
+- st.HK, Lv3 4320  
+
 ## Hit-Confirm
 
 ### st.LP/cr.LP
