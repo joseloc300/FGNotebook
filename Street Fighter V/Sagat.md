@@ -42,7 +42,7 @@
 - st.LP, st.LP, st.LK, qcfLP 144  
 - st.LP, st.MP, st.LK, dp.HP 213  
 - st.LP, st.MP, cr.MP, qcf.MP 191  
-- st.LP, st.MP, cr.MP, dp.HP 233  
+- st.LP, st.MP, cr.MP, dp.HP 233 (254 if VS1 buff is active)  
 - st.LP, st.MP, cr.MP, dp.PP 254  
 - st.LP, st.MP, cr.MP, qcf.PP 212  
 - st.LP, st.MP, cr.MP, qcf.PP, dp.PP 272 (corner only)  
