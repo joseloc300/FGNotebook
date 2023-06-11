@@ -1,3 +1,5 @@
+[Return to character select](./index.md)  
+
 # Starter Guide
 
 
@@ -13,3 +15,6 @@
 - Punish:
   - use a 4f punish to cover all options
   - reminder that punish after is punish-counter \(+4f\) but punish between the is only counter-hit \(+2f\)
+
+
+[Return to character select](./index.md)  

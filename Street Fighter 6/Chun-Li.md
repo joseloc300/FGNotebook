@@ -1,3 +1,5 @@
+[Return to character select](./index.md)  
+
 # Starter Guide
 
 ## Pokes
@@ -82,6 +84,10 @@
 - st.LP, st.LP, st.LP, qcfLK  
 - st.LP, cr.LP, cr.LP, 28LK  
 - st.MP, st.LK, qcf.MK  
+- st.HK, qcb\*P -> MK, qcf.MK 2420 +3 (can throw after)
+- st.HK, qcb\*P -> MK, Lv1 3100 +24
+- st.HK, qcb\*P -> MK, Lv1 3100 +24
+- 
 
 ## Punishes
 
@@ -101,7 +107,7 @@
 
 - 6HK, 22HK  
 
-## Wall Crumple (on block)
+## Wall Crumple (on DI block)
 
 - Easy
   - cr.MK, 28HK 1294 +28 meterless  
@@ -113,9 +119,21 @@
   - qcb\*P -> HK, Lv1 1920 meter dump  
   - qcb\*P -> HK, Lv3 3760 meter dump  
 
-## Wall Splat (on hit)
+## Wall Splat (on DI hit)
 
 - 22HK  
+- cr.MK, 22HK 2040 +38
+- st.HK, 28LK 2219
+- st.HK, qcf.LK 2080
+- st.HK, qcf.KK 
+- st.HK, qcf.KK, Lv2, j.c, j.HP, j.HP 3430
+- st.HK, 22HK 2360 +35
+- st.HK, 22KK 2500 +28
+- st.HK, qcb\*P -> MK, 22KK 2920 +29
+- st.HK, qcb\*P -> MK, Lv1 3100 +24
+- st.HK, Lv3 4320 +6
+- st.HK, qcb\*P -> MK, Lv3 4480 +6
+
 
 
 
