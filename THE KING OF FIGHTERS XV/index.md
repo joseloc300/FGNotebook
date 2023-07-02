@@ -2,9 +2,6 @@
 
 # Characters
 
-[Cammy](./Cammy.md)
-[Chun-Li](./Chun-Li.md)  
-[Luke](Luke.md)  
-[Ryu](./Ryu.md)  
+[B. Jenet](./B.%20Jenet.md)  
 
 [Return to game select](../index.md)  

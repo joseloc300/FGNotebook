@@ -47,9 +47,17 @@
 
 - 6HK, 22HK  
 
-## Wall Splat
+## Wall Crumple (on DI block)
 
-- 22HK  
+- 22KK
+- 4HP, qcf.HK
+- st.HK, qcb\*P -> MK, 22KK
+
+## Wall Splat (on DI hit)
+
+- 22KK
+- 4HP, qcf.HK
+- st.HK, qcb\*P -> MK, 22KK
 
 # Full Guide (WIP, not organized, might have errors)
 
