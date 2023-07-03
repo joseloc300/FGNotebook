@@ -2,7 +2,58 @@
 
 # Starter Guide
 
+## Pokes
 
+- 
+
+## Anti-airs
+
+- 
+
+## Pressure
+
+- 
+
+## Hit-Confirms
+
+- st.LP, st.LP, st.LP, qcf.HP - 1230 (-5 on hit)
+- st.LP, st.LP, st.LP, qcb.LP - 1300
+- st.LP, st.LP, st.LP, dp.HP - 1790
+- st.LP, st.LP, dp.HP, Lv3 - 4090 (3 st.LP do not let cancel into Lv3 likely due to dp.HP spacing)
+
+### Corner
+
+- st.LP, st.LP, st.LP, qcb.KK, dp.HP - 2350
+- st.LP, st.LP, st.LP, qcb.KK, Lv1 - 2710
+- st.LP, st.LP, st.LP, qcb.KK, Lv2 - 3070
+- st.LP, st.LP, st.LP, qcb.KK, qcf.LK, Lv3 - 4110
+
+## Punishes
+
+### Fast (4 frames)
+
+- 
+
+### Slow
+
+-  
+
+### Crumple State
+
+-  
+
+## Wall Crumple (on DI block)
+
+- 
+
+## Wall Splat (on DI hit)
+
+- cr.HP, dp.HP - 2420
+- cr.HP, qcb.MP, dp.HP - 2840
+- cr.HP, qcb.MP, Lv1 - 3200
+- cr.HP, Lv2 (hold slightlty) - 3400
+- cr.HP, qcb.KK, Lv2 - 3700
+- cr.HP, qcb.LP (w/ denjin charge), qcb.KK, qcf.MK, Lv3 - 5030
 
 # Starter Guide VS
 
@@ -15,6 +66,14 @@
 - Punish:
   - use a 4f punish to cover all options
   - reminder that punish after is punish-counter \(+4f\) but punish between the is only counter-hit \(+2f\)
+
+# All combos
+
+## Normal Hit
+
+- st.HK, cr.MK, qcf.KK, dp.HP, Lv3 - 4880
+
+## Counter Hit
 
 
 [Return to character select](./index.md)  
