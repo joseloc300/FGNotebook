@@ -72,6 +72,7 @@
 ## Normal Hit
 
 - st.HK, cr.MK, qcf.KK, dp.HP, Lv3 - 4880
+- j.HP, cr.HP, qcf.KK, dp.HP, Lv3 - 5080
 
 ## Counter Hit
 
