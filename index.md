@@ -1,7 +1,8 @@
 # Games
 
 [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
-[Injustice 2](./Injustice%202/index.md)   
+[Injustice 2](./Injustice%202/index.md)  
+[Guilty Gear Strive](./Guilty%20Gear%20Strive/index.md)  
 [Skullgirls 2nd Encore](./Skullgirls%202nd%20Encore//index.md)  
 [Soul Calibur VI](./Soul%20Calibur%20VI//index.md)  
 [Street Fighter V](./Street%20Fighter%20V/index.md)  
