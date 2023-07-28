@@ -137,6 +137,7 @@
 - st.HK, qcf.KK, Lv2, j.c, j.HP, j.HP 3430
 - st.HK, 22HK 2360 +35
 - st.HK, 22KK 2500 +28
+- st.HK, qcb\*P -> MK, 22HK 2800 +??
 - st.HK, qcb\*P -> MK, 22KK 2920 +29
 - st.HK, qcb\*P -> MK, Lv1 3100 +24
 - st.HK, Lv3 4320 +6
@@ -223,7 +224,6 @@ cr.HP, 28KK, qcfKK, Lv2, j.c, j.HP, Lv1 4400
 
 ### Counter Hit
 
-
 ### Punish Counter
 
 #### 4 frame Punish Counter
@@ -248,6 +248,23 @@ st.LP, b.HP, st.LK, qcfMK 1948 Very Hard
 | -------------------------- | ------ | --------- | -------- | -------------- | -------------------- | --------------------- |
 | st.LP, st.LP, st.LP        | 810    | +5        | -        | 0              | 0                    | same for cr.LP but +4 |
 | st.LP, st.LP, st.LP, qcfLK | 1370   | +3        | -        | 0              | 0                    |                       |
+
+
+## Matchups
+
+### Blanka
+
+- st.MK or 4.HP to anti-air blanka ball. 4.HP is safer in terms of hurtbox and you can use it very early.  
+On the other hand st.MK is faster which makes it better to use on reaction and safer on whiff if blanka ball doesn't connect.  
+Available combos below
+  - st.MK, qcf.MK
+  - st.MK, qcf.KK, etc (if qcf.KK is used too soon Lv2 can whiff)
+  - st.MK, Lv1/Lv2/Lv3
+  - 4.HP, Lv1/Lv2/Lv3
+  - 4.HP, qcb.KK, Lv3
+  - 4.HP, qcf.HK
+  - 4.HP, qcf.KK, etc (if qcf.KK is used too soon Lv2 can whiff)
+  - 4.HP, 22.HK
 
 
 [Return to character select](./index.md)  
