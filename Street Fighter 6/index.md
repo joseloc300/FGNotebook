@@ -2,7 +2,7 @@
 
 # Characters
 
-[Cammy](./Cammy.md)
+[Cammy](./Cammy.md)  
 [Chun-Li](./Chun-Li.md)  
 [Kimberly](./Kimberly.md)  
 [Luke](Luke.md)  
