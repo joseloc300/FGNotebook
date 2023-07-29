@@ -2,7 +2,10 @@
 
 # Starter Guide
 
+## Wall Splat
 
+- 6HS
+- super
 
 ## All combos
 
@@ -25,10 +28,27 @@
 
 ### Mid-Screen
 
-- 
+- 5P, 6H - 73 - 0.0 blood meter
+- 5P, 214HS, 6HS - 98 - 0.6 blood meter
+
+- fS, 2HS, 236S - 96 - 0.5 blood meter
+
+- 2S, 2HS, 236S - 104 - 0.5 blood meter
+
+
+- 5HS, 236S, 236K, fS > S > S - 139 - 0.5 blood meter, far version
+- 5HS, 236S, 236K, delay, cS, fS > S > S - 156 - 0.5 blood meter,  close version
+- 5HS, 236S, 236K, fS > S, 214HS, 263HS - 178 - ?.? blood meter, good corner carry, wall splats from mid-screen
+- 5HS, 236S, 236K, fS > S, 214HS, 263HS, 6HS - 228 - 2.3 blood meter, good corner carry, wall splats from mid-screen
+- 5HS, 236S, 236K, fS > S, 214HS, 263HS, super - 252 - ?.? blood meter, good corner carry, wall splats from mid-screen (on last 236HS)
+- 5HS, 236S, 236K
 
 ### Corner
 
-- 
+- 6HS, 236S, fS > S, 263HS, 2HS - 222 - 1.0 blood meter
+- 6HS, 214HS, 236S, 214HS, 236S, 263HS, super - 301 - wall break, full blood meter (will enter blood rage after stage transition no matter what)
+- 6HS, 214HS, 263HS, dash-RC, c.S, delay, 6HS, super - 313 - wall break, 0.75 blood meter
+- 6HS, 214HS, 263HS, dash-RC, c.S, 2HS, 263HS, 236K, super - 314 - wall break, 1.5 blood meter
+- 6HS, 214HS, 263HS, dash-RC, delay, 2HS, 263HS, 236K, super - 326 - wall break, 1.5 blood meter
 
 [Return to character select](./index.md)  
