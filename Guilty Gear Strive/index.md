@@ -2,6 +2,6 @@
 
 # Characters
 
-[Nagoriyuki](./Nagoriyuki.md)  
+[Nagoriyuki](./Nagoryiuki.md)  
 
 [Return to game select](../index.md)  
