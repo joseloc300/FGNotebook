@@ -243,6 +243,10 @@ st.LP, b.HP, st.LK, qcfMK 1948 Very Hard
 6HK, 4HP, delay, qcfKK, Lv2, etc  
 6HK, 4HP, delay, qcfKK, Lv3    
 
+#### Max damage
+
+- st.HK, qcb\*P -> MK, DR, 4.HP, qcb\*P -> MK, DR, 4.HP, qcb\*P -> MK, qcf.MK, CA - 6118
+
 
 | Combo                      | Damage | Advantage | CH State | Meter Required | Drive Gauge Required | Notes                 |
 | -------------------------- | ------ | --------- | -------- | -------------- | -------------------- | --------------------- |
