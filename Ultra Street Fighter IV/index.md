@@ -2,4 +2,6 @@
 
 # Characters
 
+[Ryu](./Ryu.md)  
+
 [Return to game select](../index.md)  

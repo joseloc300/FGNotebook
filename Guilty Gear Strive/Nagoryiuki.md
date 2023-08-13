@@ -15,6 +15,7 @@
 
 - 5.P, 5.P, 6.P, 214.HS, 263.HS - 112 - 1.8 blood meter
 - 5.fS > S, 263.HS, 236.S, 214.HS - 130 - 2.5 blood meter
+- 5.fS > S, 236.S, 263.HS, 214.HS, 623.HS, dash-RC, c.S (corner), 2HS (wall splat), super - 251
 
 ### Corner
 
