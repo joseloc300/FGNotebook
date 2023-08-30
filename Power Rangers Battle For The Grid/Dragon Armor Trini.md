@@ -8,6 +8,14 @@
 
 ## Normal Hit
 
+### Mid-Screen
+
+- j.H, 5L > 5LL > 5LLL, 5M > 5MM, 6S, j.S, 2L, 5M > 5MM, 6S (let finish), Lv2 - 721
+- 5H > 5HH, 5L > 5LL > 5LLL, 5M > 5MM, 6S, j.S, 2L, 5M > 5MM, 6S (let finish), Lv2 - 757 (1 bar)
+- 5H > 5HH, 5S, Lv2 - 669 (2 bars)
+- 4S, 5S, Lv2 - 588
+- 4S, dash, 5M (during dash) > 5MM, 6S, j.S, 2L, 5M > 5MM, 6S (let finish), Lv2 - 680
+
 ### Corner
 
 - 2M, 2M, 5H, 5H, 2H, 5S - 436
