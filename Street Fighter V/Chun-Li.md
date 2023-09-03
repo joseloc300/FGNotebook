@@ -1,6 +1,116 @@
 # Starter Guide
 
+## Pokes
+
+- 
+
+## Anti-airs
+
+- 
+
+## Pressure
+
+- 
+
+## Hit-Confirms
+
+- 
+
+## Punishes
+
+### Fast (4 frames)
+
+- 
+
+### Slow
+
+- 
+
+### Crumple State
+
+- 
+
+# Guide
+
+## Pokes
+
+- 
+
+## Anti-airs
+
+- 
+
+## Pressure
+
+- 
+
+## Hit-Confirms
+
+- 
+
+## Punishes
+
+### Fast (4 frames)
+
+- 
+
+### Slow
+
+- 
+
+### Crumple State
+
+- 
+
 # All Combos  
+
+## Normal-Hit
+
+### Universal
+
+- j.HK, cr.HP > 28HK - 267 dmg, 400 stun
+- 4HP, 46PP, qcf.KK - 292 dmg, 400 stun
+
+### VS2
+
+- j.HK, cr.HP > VS2, cr.LP, qcf.MK - 279 dmg, 457 stun
+  - ... > CA - 451 dmg, 445 stun
+- j.HK, cr.HP > VS2, cr.LP, qcf.KK - 313 dmg, 505 stun
+
+
+## VS2 & VT2
+
+- j.HK, cr.HP > VS2, cr.LP, qcf.MK, VT2, ...
+  - qcf.HK - 325 dmg, 514 stun
+  - qcf.HK > CA - 502 dmg, 510 stun
+  - qcf.KK - 333 dmg, 530 stun
+
+## VS2 & VT1
+
+- j.HK, cr.HP > VS2, cr.LP, qcf.MK, VT1, ...
+  - cr.HP > 28.HK - 319 dmg, 515 stun
+  - cr.LP, cr.MK, 28HK - 308 dmg, 506 stun
+  - cr.HP > VS2, cr.LP, cr.MK, 28HK - 332 dmg, 538 stun
+  - cr.HP > VS2, cr.LP, cr.MK, qcf.HK - 326 dmg, 530 stun
+  - cr.HP > VS2, cr.LP, cr.MK, qcf.KK - 333 dmg, 538 stun
+  - cr.HP > VS2, cr.LP, cr.MK, qcf.HK > CA - 505 dmg, 528 stun
+  - 4HP, 46PP, qcf.KK - 339 dmg, 530 stun
+  - 4HP, qcf.HK - 322 dmg, 514 stun
+  - 4HP, qcf.KK - 330 dmg, 530 stun
+  - 4HP, qcf.HK > CA - 497 dmg, 510 stun
+
+## VS1 & VT2
+
+- j.HK, cr.HP > VS1, VS1 (delay), qcf.KK - 316 dmg, 484 stun
+
+- j.HK, cr.HP > VS1, VS1 (delay), VT2, qcf.HK - 308 dmg, 454 stun
+- j.HK, cr.HP > VS1, VS1, VT2, qcf.KK - 322 dmg, 484 stun
+- j.HK, cr.HP > VS1, VS1 (delay), VT2, qcf.HK > CA - 487 dmg, 454 stun
+
+## Counter-Hit
+
+- st.LP, 4HP, qcf.HK - 197 dmg, 315 stun
+- cr.LP, cr.MK, 28HK - 204 dmg, 334 stun
 
 ## Normal Combos  
 
