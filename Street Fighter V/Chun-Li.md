@@ -134,6 +134,23 @@ This means that combos can have more damage/stun if it's a counter-hit and/or it
 
 ---
 
+| Combo                                                         | Damage | Stun | Advantage | Requires CH |
+| ------------------------------------------------------------- | ------ | ---- | --------- | ----------- |
+| st.LP, st.LP, qcfLK                                           | 105    | 197  | No        |             |
+| st.LP, cr.LP, qcfMK                                           | ?      | ?    | No        |             |
+| st.LP, st.LP, qcfKK                                           | 169    | 293  | No        |             |
+| st.LP, st.MP, qcfHK                                           | 164    | 256  | No        |             |
+| jHK, cHP, 28HK                                                | 267    | 400  | No        |             |
+| jHK, cHP, qcfLK, cLP, 28LK                                    | 279    | 473  | No        |             |
+| jHK, cHP, VS2, cLP, 28LK                                      | 295    | 505  | No        |             |
+| jHK, cHP, VS1, delay, jVS1, qcfHK                             | 292    | 436  | No        |             |
+| jHK, cHP, qcfLK, cLP, qcfMK, VT1 (activation), cMK, 28HK      | 301    | 483  | No        |             |
+| jHK, cHP, VS2, cLP, qcfMK, VT1 (activation), cMK, 28HK        | ?      | ?    | No        |             |
+| jHK, cHP, qcfLK, cLP, qcfMK, VT1 (activation), cMK, qcfHK, CA | 469    | 463  | No        |             |
+| jHK, cHP, VS2, cLP, qcfMK, VT1 (activation), cMK, qcfHK, CA   | 485    | 495  | No        |             |
+
+---
+
 ## VT1 Combos (already activated)  
 
 
