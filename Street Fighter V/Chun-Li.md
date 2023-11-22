@@ -87,7 +87,12 @@
 
 ## VS2 & VT1
 
+- j.HK, cr.HP > VS2, VT1, cr.HP > VS2, cr.LP, cr.MK, 28HK -  317 dmg, 499 stun
+
 - j.HK, cr.HP > VS2, cr.LP, qcf.MK, VT1, ...
+  - cr.HP > qcf.LK, cr.LP, qcf.MK - 319 dmg, 508 stun
+  - cr.HP > qcf.LK, cr.LP, qcf.KK - 323 dmg, 518 stun
+  - cr.HP > qcf.LK, cr.LP, qcf.MK > CA - 498 dmg, 506 stun
   - cr.HP > 28.HK - 319 dmg, 515 stun
   - cr.LP, cr.MK, 28HK - 308 dmg, 506 stun
   - cr.HP > VS2, cr.LP, cr.MK, 28HK - 332 dmg, 538 stun

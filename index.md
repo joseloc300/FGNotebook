@@ -1,8 +1,10 @@
 # Games
 
+[Blazblue Centralfiction](./Blazblue%20Centralfiction/index.md)  
 [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
 [Guilty Gear Strive](./Guilty%20Gear%20Strive/index.md)  
 [Injustice 2](./Injustice%202/index.md)  
+[One Piece Burning Blood](./One%20Piece%20Burning%20Blood/index.md)  
 [Power Rangers Battle For The Grid](./Power%20Rangers%20Battle%20For%20The%20Grid/index.md)  
 [Skullgirls 2nd Encore](./Skullgirls%202nd%20Encore//index.md)  
 [Soul Calibur VI](./Soul%20Calibur%20VI//index.md)  
