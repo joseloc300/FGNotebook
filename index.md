@@ -2,6 +2,7 @@
 
 [Blazblue Centralfiction](./Blazblue%20Centralfiction/index.md)  
 [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
+[Fight Of Gods](./Fight%20Of%20Gods/index.md)  
 [Guilty Gear Strive](./Guilty%20Gear%20Strive/index.md)  
 [Injustice 2](./Injustice%202/index.md)  
 [One Piece Burning Blood](./One%20Piece%20Burning%20Blood/index.md)  

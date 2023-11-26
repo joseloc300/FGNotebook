@@ -103,9 +103,5 @@
 
 - cr.MK, qcb.KK, qcf.PP, U2 - 452 dmg (UCD), 2 bars, Ultra
 
-| Combo | Damage | Advantage | CH State | Meter Required | Drive Gauge Required | Notes |
-| ----- | ------ | --------- | -------- | -------------- | -------------------- | ----- |
-| -     | -      | -         | -        | -              | -                    | -     |
-
 
 [Return to character select](./index.md)  

@@ -2,7 +2,7 @@
 
 # Characters
 
-[Susanoo](./Susanoo.md)  
 [Ragna](./Ragna.md)  
+[Susanoo](./Susanoo.md)  
 
 [Return to game select](../index.md)  
