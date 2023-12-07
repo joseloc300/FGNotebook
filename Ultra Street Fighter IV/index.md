@@ -2,6 +2,7 @@
 
 # Characters
 
-[Ryu](./Ryu.md)  
+- [Evil Ryu](./Evil%20Ryu.md)
+- [Ryu](./Ryu.md)  
 
 [Return to game select](../index.md)  
