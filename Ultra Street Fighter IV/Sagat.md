@@ -8,11 +8,12 @@
 
 ### Mid-Screen
 
-- 
+- cl.MP, dp.PP, U1 - 501 dmg
 
 ### Corner
 
-- 
+- j.HK, cl.MP, qcf.HP, super - 502 dmg
+- j.HK, cl.MP, qcf.HP, super, U1 - 686 dmg
 
 ## Counter Hit
 
@@ -22,7 +23,7 @@
 
 ### Corner
 
-- cr.MK, qcb.KK, qcf.PP, U2 - 452 dmg (UCD), 2 bars, Ultra
+- 
 
 
 [Return to character select](./index.md)  

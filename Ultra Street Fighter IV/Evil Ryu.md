@@ -2,90 +2,11 @@
 
 # Starter Guide
 
-## Pokes
-
-- 
-
-## Anti-airs
-
-- 
-
-## Pressure
-
-- 
-
-## Hit-Confirms
-
-- 
-
-## Punishes
-
-### Fast (4 frames)
-
-- 
-
-### Slow
-
-- 
-
-### Crumple State
-
-- 
-
-## Wall Crumple (on DI block)
-
-- 
-
-## Wall Splat (on DI hit)
-
-- 
-
-# Full Guide (WIP, not organized, might have errors)
-
-## Pokes
-
-- 
-
-## Anti-airs
-
-- 
-
-## Pressure
-
-- 
-
-## Hit-Confirms
-
-- 
-
-## Punishes
-
-### Fast (4 frames)
-
-- 
-
-### Slow
-
-- 
-
-### Crumple State
-
-- 
-
-## Wall Crumple (on DI block)
-
-- 
-
-## Wall Splat (on DI hit)
-
-- 
-
-
 # All combos
 
-## Mid-Screen
+## Normal Hit
 
-### Normal Hit
+### Mid-Screen
 
 - st.LP, st.LP, qcb.LK, cr.HK - 168 dmg
 - st.LP, st.LP, qcb.HK - 170 dmg
@@ -98,18 +19,23 @@
 - cr.HP, qcb.LK, dp.HP - 260 dmg
 - st.HP, qcb.LK, dp.HP - 269 dmg
 
-### Counter Hit
+- j.HK, U1 - 340 dmg
+- j.HP, U1 - 340 dmg
+
+### Corner
+
+- cl.HP, qcbKK, U1 - 502 dmg
+- j.HK, cl.HP, qcbKK, U1 - 534 dmg
+- j.HP, cl.HP, qcbKK, U1 - 534 dmg
+
+## Counter Hit
+
+### Mid-Screen
 
 - st.LP, cr.HP, qcb.LK, dp.HP - 268 dmg
 - st.LP, st.HP, qcb.LK, dp.HP - 277 dmg
 
-## Corner
-
-### Normal Hit
-
-- 
-
-### Counter Hit
+### Corner
 
 - 
 
