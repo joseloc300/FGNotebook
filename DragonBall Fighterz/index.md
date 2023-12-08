@@ -2,11 +2,13 @@
 
 # Characters
 
-[Goku Super Sayan](./Goku%20SS.md)  
-[Goku Super Sayan God Super Sayan](./Goku%20SSGSS.md)  
-[Kefla](./Kefla.md)  
-[Vegito SSGSS](./Vegito%20SSGSS.md)  
-[Videl](./Videl.md)  
+- [Goku Super Sayan](./Goku%20SS.md)  
+- [Goku Super Sayan God Super Sayan](./Goku%20SSGSS.md)  
+- [Kefla](./Kefla.md)
+- [Teen Gohan](./Teen%20Gohan.md)  
+- [Vegeta Super Sayan](./Vegeta%20SS.md)  
+- [Vegito SSGSS](./Vegito%20SSGSS.md)  
+- [Videl](./Videl.md)  
 
 # Teams
 
