@@ -1,6 +1,6 @@
 # Starter Guide
 
-# All Combos
+# Solo Combos
 
 ## Regular
 
