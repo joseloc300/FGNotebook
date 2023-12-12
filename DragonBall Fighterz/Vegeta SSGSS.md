@@ -8,11 +8,13 @@
 
 ### Mid-Screen
 
-- 
+- 2M, 5M, j.c, j.L, j.LL, j.2H, SD, j.L, j.LL, j.2H, j.c, j.L, j.LL, j.S, j.214L - 4105 dmg, +1bar
+- 2M, 5M, j.c, j.L, j.LL, j.236S, SD, j.L, j.LL, j.236S, j.214L - 4515 dmg, +0.8bars
+- 2M, 5M, 236S, 236M > M > H, 2M, 5M, j.c, j.L, j.LL, j.236S, SD, j.L, j.LL, j.2H, j.c, j.L, j.LL, j.236S > j.214L - 6063 dmg, +0.4bars
 
 ### Mid-Screen (reaches corner mid-way)
 
-- 
+- 2M, 5M, j.c, j.L, j.LL, j.236S, SD, j.L, j.LL, j.236S, j.236L > M > M, j.S, j.236S, j.214L - 5238 dmg, +1.5bars 
 
 ### Corner
 
