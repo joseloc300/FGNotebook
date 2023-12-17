@@ -41,16 +41,19 @@
 
 - st.HP > st.HK - 1280
 - st.HP, dp.HK - 1600
-- st.HP, Lv1 - 
-- st.HP, Lv2, dp.HK - 
-- st.HP, Lv3 - 
+- st.HP, Lv1 - 2240
+- st.HP, Lv2, dp.HK - 2208
+- st.HP, Lv2, [dp.HK] - 2656, loses corner
+- st.HP, Lv3 - 3840
+- Lv3 - 3200
 
 ## Wall Splat (on DI hit)
 
 - st.HP > st.HK - 2000
 - st.HP, dp.HK - 2280
-- st.HP, Lv1 - 
-- st.HP, Lv2, dp.HK - 
-- st.HP, Lv3 - 
+- st.HP, Lv1 - 2490
+- st.HP, Lv2, dp.HK - 2844
+- st.HP, Lv2, [dp.HK] - 3264, loses corner
+- st.HP, Lv3 - 4240
 
 [Return to character page](./index.md)  
