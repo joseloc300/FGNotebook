@@ -4,19 +4,21 @@
 
 ## Pokes
 
-- 
+- qcf.\*P
+- cr.MK
+- st.HP
 
 ## Anti-airs
 
-- 
+- cr.HP
+- dp.\*P
 
 ## Pressure
 
-- 
+- st.MP
 
 ## Hit-Confirms
 
-- st.LP, st.LP, st.LP, qcf.HP - 1230 (-5 on hit)
 - st.LP, st.LP, st.LP, qcb.LP - 1300
 - st.LP, st.LP, st.LP, dp.HP - 1790
 - st.LP, st.LP, dp.HP, Lv3 - 4090 (3 st.LP do not let cancel into Lv3 likely due to dp.HP spacing)
@@ -32,11 +34,15 @@
 
 ### Fast (4 frames)
 
-- 
+- st.LP, st.MP, dp.HP - 2020
 
 ### Slow
 
--  
+- st.HK, st.HP, qcb.MK - 2600
+- st.HK, st.HP, qcb.HK - 2680 - switches sides
+- st.HK, Lv1 - 3080
+- st.HK, Lv2 - 3680
+- st.HK, Lv3 - 5080
 
 ### Crumple State
 
@@ -44,16 +50,19 @@
 
 ## Wall Crumple (on DI block)
 
-- 
+- cr.HP, qcb.HK - 1440
+- cr.HP, dp.HP - 1760
+- cr.HP, Lv1 - 2240
+- cr.HP, Lv2 - 2720
+- cr.HP, Lv3 - 4240
 
 ## Wall Splat (on DI hit)
 
+- cr.HP, qcb.HK - 1800
 - cr.HP, dp.HP - 2420
-- cr.HP, qcb.MP, dp.HP - 2840
-- cr.HP, qcb.MP, Lv1 - 3200
-- cr.HP, Lv2 (hold slightlty) - 3400
-- cr.HP, qcb.KK, Lv2 - 3700
-- cr.HP, qcb.LP (w/ denjin charge), qcb.KK, qcf.MK, Lv3 - 5030
+- cr.HP, Lv1 - 2800
+- cr.HP, Lv2 - 3700
+- cr.HP, Lv3 - 4800
 
 # Starter Guide VS
 
@@ -71,10 +80,25 @@
 
 ## Normal Hit
 
+- st.LP, st.LP, st.LP, qcf.HP - 1230 (-5 on hit)
 - st.HK, cr.MK, qcf.KK, dp.HP, Lv3 - 4880
 - j.HP, cr.HP, qcf.KK, dp.HP, Lv3 - 5080
 
 ## Counter Hit
 
+- 
+
+## Wall Crumple (on DI block)
+
+- 
+
+## Wall Splat (on DI hit)
+
+- cr.HP, dp.HP - 2420
+- cr.HP, qcb.MP, dp.HP - 2840
+- cr.HP, qcb.MP, Lv1 - 3200
+- cr.HP, Lv2 (hold slightlty) - 3400
+- cr.HP, qcb.KK, Lv2 - 3700
+- cr.HP, qcb.LP (w/ denjin charge), qcb.KK, qcf.MK, Lv3 - 5030
 
 [Return to character select](./index.md)  

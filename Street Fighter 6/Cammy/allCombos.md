@@ -1,105 +1,10 @@
-[Return to character select](./index.md)  
-
-# Starter Guide
-
-## Pokes
-
-- 
-
-## Anti-airs
-
-- 
-
-## Pressure
-
-- 
-
-## Hit-Confirms
-
-- 
-
-## Punishes
-
-### Fast (4 frames)
-
-- 
-
-### Slow
-
-- 
-
-### Crumple State
-
-- 
-
-## Wall Crumple (on DI block)
-
-- 
-
-## Wall Splat (on DI hit)
-
-- 
-
-# Full Guide (WIP, not organized, might have errors)
-
-## Pokes
-
-- 
-
-## Anti-airs
-
-- 
-
-## Pressure
-
-- 
-
-## Hit-Confirms
-
-- 
-
-## Punishes
-
-### Fast (4 frames)
-
-- 
-
-### Slow
-
-- 
-
-### Crumple State
-
-- 
-
-## Wall Crumple (on DI block)
-
-- 
-
-## Wall Splat (on DI hit)
-
-- 
-
+[Return to character page](./index.md)  
 
 # All combos
 
-## Wall Crumple (on block)
+## Normal Hit
 
-- 
-
-## Wall Splat (on hit)
-
-- 
-
-## Hit-Confirm
-
-### st.LP/cr.LP
-
-
-
-## All combos
-
-### Normal Hit
+### Mid-Screen
 
 - st.LP, 4.MP > st.HK, st.HK - 
 - st.LP, 4.MP > st.HK, j.MP, qcb.HK - 2010
@@ -126,29 +31,37 @@
 - j.HK, st.HP, DR, st.MP, st.HP, DR, st.MP, st.HP, qcb.MP > Lv3 - 5394
 - j.HK, st.HP, DR, cr.HP, st.HP, DR, cr.HP, st.HP, qcb.MP > Lv3 - 5513
 
-### Counter Hit
+### Corner
+
+- 
+
+## Counter Hit
+
+### Mid-Screen
 
 - st.LP, st.MP, st.LK, qcf.MK - 
 - st.MP, st.HP, DR, st.MP, st.HP, DR, st.MP, st.HP, qcf.HK > Lv3 - 5144 
 
-### Punish Counter
+### Corner
 
-#### 4 frame Punish Counter
+- 
 
+## Punish Counter
 
+### Mid-Screen
 
-#### **Crumple State**
+- 
 
+### Corner
 
-### Drive Rush Loop
+- 
 
-- st.MP, st.HP > DR
-- cr.HP, st.HP > DR
+## Wall Crumple (on DI block)
 
+- 
 
-| Combo | Damage | Advantage | CH State | Meter Required | Drive Gauge Required | Notes |
-| ----- | ------ | --------- | -------- | -------------- | -------------------- | ----- |
-| -     | -      | -         | -        | -              | -                    | -     |
+## Wall Splat (on DI hit)
 
+- st.HP, qcf.[HK], dp.HK - 2480, loses corner
 
-[Return to character select](./index.md)  
+[Return to character page](./index.md)  

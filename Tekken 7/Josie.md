@@ -10,7 +10,7 @@
 
 [Return to character select](./index.md)  
 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b4/Josie_Rizal_%28T7%29.png" alt="">´
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b4/Josie_Rizal_%28T7%29.png" alt="">
 
 <h1>Launcher</h1>
 <p>

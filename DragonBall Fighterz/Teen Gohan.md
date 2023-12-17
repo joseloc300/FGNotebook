@@ -6,6 +6,7 @@
 
 ### Mid-Screen
 
+- 2M, 5M, j.c, j.L, j.LL, j.c, j.L, j.LL, j.2S, SD, j.L, j.LL, j.236M, 236M - 4480 dmg, +1.75meter
 - 2M, 5M, j.c, j.L, j.LL, j.2S, SD, j.L, j.LL, j.236H, 5L, 5LL, 5LLL, SD, j.L, j.LL, j.2H, j.c, j.L, j.LL, j.236M - 5141 dmg, +0.5 bars
 
 ### Mid-Screen (reaches corner mid-way)

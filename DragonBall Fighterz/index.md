@@ -2,9 +2,11 @@
 
 # Characters
 
+- [Frieza](./Frieza.md)
 - [Gogeta SSGSS](./Gogeta%20SSGSS.md)
 - [Goku SS](./Goku%20SS.md)  
 - [Goku SSGSS](./Goku%20SSGSS.md)  
+- [Jiren](./Jiren.md)
 - [Kefla](./Kefla.md)
 - [Teen Gohan](./Teen%20Gohan.md)  
 - [Vegeta](./Vegeta.md)  

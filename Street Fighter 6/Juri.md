@@ -4,7 +4,9 @@
 
 ## Pokes
 
-- 
+- st.MK
+- st.HK
+- st.HP
 
 ## Anti-airs
 
@@ -64,11 +66,6 @@
 ## Wall Splat (on DI hit)
 
 - st.HP, qcb.HK, dp.HP - 2180
-
-
-
-
-
 
 # Full Guide (WIP, not organized, might have errors)
 

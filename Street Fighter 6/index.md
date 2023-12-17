@@ -2,7 +2,7 @@
 
 # Characters
 
-- [Cammy](./Cammy.md)
+- [Cammy](./Cammy/index.md)
 - [Chun-Li](./Chun-Li.md)
 - [Dhalsim](./Dhalsim.md)
 - [Juri](./Juri.md)
