@@ -31,7 +31,7 @@
 
 ### Mid-Screen
 
-- 
+- 2M, 5M, 236S > 236M > M > H, 5H, 236S, SD, j.L, j.LL, j.2H, j.c, j.L, j.LL, j.236S > j.214L, Lv1, Lv5 - 10273 dmg, requires 6 bars
 
 ### Mid-Screen (reaches corner mid-way)
 

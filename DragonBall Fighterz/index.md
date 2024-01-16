@@ -2,6 +2,7 @@
 
 # Characters
 
+- [Bardock](./Bardock.md)
 - [Frieza](./Frieza.md)
 - [Gogeta SSGSS](./Gogeta%20SSGSS.md)
 - [Goku SS](./Goku%20SS.md)  
