@@ -21,7 +21,7 @@ https://wiki.supercombo.gg/w/Ultra_Street_Fighter_IV/Sakura
   - ... > super - 403 dmg
 - st.LP, cl.MP, qcb.LK, st.LK, qcb.KK, dp.HP - 280 dmg
 - st.LP, cl.MP, qcb.LK, st.LK, qcb.KK, dp.LK > LP, LP, LP - 279 dmg
-- st.LP, cl.MP, qcb.LK, st.LK, qcb.KK, U1- 350 dmg
+- st.LP, cl.MP, qcb.LK, st.LK, qcb.KK, U2- 350 dmg
 
 
 - st.LP, st.LK > qcb.HK - 151 dmg
@@ -32,8 +32,8 @@ https://wiki.supercombo.gg/w/Ultra_Street_Fighter_IV/Sakura
 - j.HK, cl.HP > qcb.LK, st.LK > dp.HP > super - 503 dmg
 - j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, dp.HP - 380 dmg
 - j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, dp.LK > LP, LP, LP - 379 dmg
-- j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, U1 - 450 dmg
-- j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, dp.PP, U1 - 412 dmg (might be able to get more damage depending on timing of the ultra) is this corner only????
+- j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, U2 - 450 dmg
+- j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, dp.PP, U2 - 412 dmg (might be able to get more damage depending on timing of the ultra) is this corner only????
 
 - j.HK, cl.HP > dp.HP - 314 dmg
   - ... > super - 526 dmg
@@ -44,15 +44,15 @@ https://wiki.supercombo.gg/w/Ultra_Street_Fighter_IV/Sakura
 - j.HK, cl.HP > qcb.KK, dp.HP - 355 dmg
 - j.HK, cl.HP > qcb.KK, dp.HP - 355 dmg
 - j.HK, cl.HP > qcb.KK, dp.LK > LP, LP, LP - 361 dmg
-- j.HK, cl.HP > qcb.KK, U1 - 465 dmg
-- j.HK, st.HP > qcb.KK, U1 - 485 dmg
-- j.HK, st.HP > qcb.KK, U1 - 489 dmg - dont know how i got this dmg
+- j.HK, cl.HP > qcb.KK, U2 - 465 dmg
+- j.HK, st.HP > qcb.KK, U2 - 485 dmg
+- j.HK, st.HP > qcb.KK, U2 - 489 dmg - dont know how i got this dmg
 
 ### Corner
 
-- j.HK, cl.HP > dp.HP, U1 - 445 dmg (ultra as soon as possible)
-- j.HK, cl.HP > qcb.LK, st.LK > dp.HP, U1 - 440 dmg (ultra as soon as possible)
-- j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, dp.HP, U1 - 429 dmg
+- j.HK, cl.HP > dp.HP, U2 - 445 dmg (ultra as soon as possible)
+- j.HK, cl.HP > qcb.LK, st.LK > dp.HP, U2 - 440 dmg (ultra as soon as possible)
+- j.HK, cl.HP > qcb.LK, st.LK > qcb.KK, dp.HP, U2 - 429 dmg
 
 ## Counter Hit
 
