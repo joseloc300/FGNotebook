@@ -1,19 +1,19 @@
 # Series
 
-[Tekken](./Tekken/index.md)
+- [Blazblue](./Blazblue/index.md)
+- [Guilty Gear](./Guilty%20Gear/index.md)
+- [Injustice](./Injustice/index.md)
+- [KING OF FIGHTERS](./King%20Of%20Fighters/index.md)
+- [Street Fighter](./Street%20Fighter/index.md)
+- [Tekken](./Tekken/index.md)
+
 
 # Games
 
-[Blazblue Centralfiction](./Blazblue%20Centralfiction/index.md)  
+
 [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
 [Fight Of Gods](./Fight%20Of%20Gods/index.md)  
-[Guilty Gear Strive](./Guilty%20Gear%20Strive/index.md)  
-[Injustice 2](./Injustice%202/index.md)  
 [One Piece Burning Blood](./One%20Piece%20Burning%20Blood/index.md)  
 [Power Rangers Battle For The Grid](./Power%20Rangers%20Battle%20For%20The%20Grid/index.md)  
 [Skullgirls 2nd Encore](./Skullgirls%202nd%20Encore//index.md)  
 [Soul Calibur VI](./Soul%20Calibur%20VI//index.md)  
-[Street Fighter V](./Street%20Fighter%20V/index.md)  
-[Street Fighter 6](./Street%20Fighter%206/index.md)  
-[THE KING OF FIGHTERS XV](./THE%20KING%20OF%20FIGHTERS%20XV/index.md)  
-[Ultra Street Fighter IV](./Ultra%20Street%20Fighter%20IV/index.md)  
