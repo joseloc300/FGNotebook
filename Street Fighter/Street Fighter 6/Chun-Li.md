@@ -143,8 +143,10 @@
 - st.HK, Lv3 4320 +6
 - st.HK, qcb\*P -> MK, Lv3 4480 +6
 
+## Setups
 
-
+- ... , 22HK (+50), dash, st.LP, st.MP (meaty)
+- ... , 28LK (+30), dash, 4.HP (meaty)
 
 # All combos
 
