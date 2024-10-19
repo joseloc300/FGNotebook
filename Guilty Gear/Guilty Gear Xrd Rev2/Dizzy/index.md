@@ -1,17 +1,13 @@
 # Character Name
 
-characterImage200width
+<img src="https://www.dustloop.com/wiki/images/3/33/GGXRD-R_Dizzy_Portrait.png" alt="">
 
 ## Wiki Page
 
-wikiURL
+https://www.dustloop.com/w/GGXRD-R2/Dizzy
 
 ## Guides
 
-- [Starter Guide](./starterGuide.md)
-- [Advanced Guide](./advancedGuide.md)
 - [All combos](./allCombos.md)
-- [Vs Guide](./vsGuide.md)
-- [Matchups](./matchups.md)
 
 [Return to character select](../index.md)  

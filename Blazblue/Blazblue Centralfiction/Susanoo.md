@@ -1,20 +1,12 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
+# All combos
 
-
-
-# Full Guide (WIP, not organized, might have errors)
-
-
-
-## All combos
-
-### No power-ups
+## No power-ups
 
 - 5A, 5B, 5C, 2C, 3C, 236A
 
-### All power-ups
+## All power-ups
 
 - 5A, 5B, 5C, 2C, 3C, 236D, 632146D
 - 5A, 5B, 5C, 2C, 3C, 236D, 3C, 236D,

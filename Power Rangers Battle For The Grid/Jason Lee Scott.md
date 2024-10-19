@@ -1,9 +1,5 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
-
-
-
 # All combos
 
 ## Normal Hit
@@ -20,11 +16,5 @@
 ## Counter Hit
 
 - 
-
-
-| Combo | Damage | Advantage | CH State | Meter Required | Drive Gauge Required | Notes |
-| ----- | ------ | --------- | -------- | -------------- | -------------------- | ----- |
-| -     | -      | -         | -        | -              | -                    | -     |
-
 
 [Return to character select](./index.md)  

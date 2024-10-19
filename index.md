@@ -1,18 +1,22 @@
 # Series
 
+- [Arcana Heart](./Arcana%20Heart/index.md)
 - [Blazblue](./Blazblue/index.md)
 - [Guilty Gear](./Guilty%20Gear/index.md)
 - [Injustice](./Injustice/index.md)
 - [KING OF FIGHTERS](./King%20Of%20Fighters/index.md)
+- [Marvel Vs Capcom](./Marvel%20Vs%20Capcom/index.md)
 - [Street Fighter](./Street%20Fighter/index.md)
 - [Tekken](./Tekken/index.md)
 
 
 # Games
 
-
+- [Coreupt](./Coreupt/index.md)
 - [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
-- [Fight Of Gods](./Fight%20Of%20Gods/index.md)  
+- [DNF Duel](./DNF%20Duel/index.md)
+- [Fight Of Gods](./Fight%20Of%20Gods/index.md)
+- [Fighting EX Layer](./Fighting%20EX%20Layer/index.md)  
 - [Hyper Dragon Ball Z](./Hyper%20Dragon%20Ball%20Z/index.md)
 - [One Piece Burning Blood](./One%20Piece%20Burning%20Blood/index.md)  
 - [Power Rangers Battle For The Grid](./Power%20Rangers%20Battle%20For%20The%20Grid/index.md)  

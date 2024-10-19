@@ -1,7 +1,5 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
-
 # All combos
 
 - st.LP, cr.LK, cr.LK, qcf.LK, qcf.qcf.P - 272

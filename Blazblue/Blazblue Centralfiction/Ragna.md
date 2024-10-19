@@ -1,14 +1,6 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
-
-
-
-# Full Guide (WIP, not organized, might have errors)
-
-
-
-## All combos
+# All combos
 
 - 5A, 5B, 5C, 623C
 - 5A, 5B, 5C, 623C, 236C, 236C

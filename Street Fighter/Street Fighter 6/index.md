@@ -2,6 +2,7 @@
 
 # Characters
 
+- [Akuma](./Akuma/index.md)
 - [Cammy](./Cammy/index.md)
 - [Chun-Li](./Chun-Li.md)
 - [Dhalsim](./Dhalsim.md)
@@ -10,6 +11,7 @@
 - [Lily](./Lily.md)
 - [Luke](Luke.md)
 - [Manon](Manon.md)
+- [Rashid](./Rashid/index.md)
 - [Ryu](./Ryu.md)
 
 [Return to game select](../index.md)  

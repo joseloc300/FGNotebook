@@ -6,11 +6,15 @@
 
 ### Mid-Screen
 
-- 
+- 4.HP, qcf.HK, Lv1 - 3160 dmg
+- 4.MP, DRush, 4.HP > qcb.P > MK, 28MK
+
+- DR > 3.HP, st.MP, cr.MP > 28.LK
+- DR > 3.HP, st.MP, cr.MP > 28.KK, ...
 
 ### Corner
 
-- 
+- st.HK, qcb\*P -> MK, 28KK, qcf.LK, 22HK - 3620 dmg
 
 ## Counter Hit
 
@@ -26,7 +30,18 @@
 
 ### Mid-Screen
 
-- 
+- DR > st.HP, 4.HP > qcb.P > LK > 28MK - 3000
+
+- DR > 4HP > qcb.HK, cr.MP > 28KK, DR > st.LP > qcf.HK - 3773
+  - ... , Lv1 - 
+  - ... , Lv3 - 5773 (5689 if cancelled from qcf.HK)
+
+- DR > 4HP > qcb.HK, cr.MP > DR > st.MP, 4.HP > DR > st.MP, 4.HP > qcf.HK - 4176
+  - ... ,  Lv1 - 4686
+  - ... , Lv3 - 6176 (6126 if cancelled from qcf.HK)
+
+- DR > 4HP > qcb.HK, cr.MP > qcf.KK > Lv2 > j.c, delay j.MP, qcf.HK - 4560
+  - ... , Lv1 - 5070
 
 ### Corner
 

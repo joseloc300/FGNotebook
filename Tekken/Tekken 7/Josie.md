@@ -1,14 +1,10 @@
-# Starter Guide
+[Return to character select](./index.md)  
 
 # All Combos  
 
-## Normal Combos  
-
-| Combo | Startup | Damage | Advantage | Notes |
-| ----- | ------- | ------ | --------- | ----- |
+## Normal Combos
 
 
-[Return to character select](./index.md)  
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b4/Josie_Rizal_%28T7%29.png" alt="">
 
@@ -68,3 +64,5 @@
 <p>
     df2, d3, 4, wait, f1, 3, dash, 1, 2, 2, wall, dash, f2, f3, f4  
 </p>
+
+[Return to character select](./index.md)  

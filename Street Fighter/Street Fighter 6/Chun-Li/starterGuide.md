@@ -37,14 +37,10 @@
 - HP (not cancelable and weak to DI)  
 - f.MP (special cancelable and safe on block but still -)  
 - cr.MK (special cancelable but weak to DI and safe on block but still -)  
-- cr.HK (-7 on block, very punishable)  
-- 6HK (On Punish Counter causes crumple state. Only use to beat sweeps since even on normal hit its -)
 
 ## Anti-airs
 
-- cr.HP (prone to trade)
 - MK (fast but specific angle)
-- HK (slow)  
 - 22K (LK is the fastest, OD for invuln)  
 
 ## Pressure

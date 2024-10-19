@@ -1,11 +1,5 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
-
-## Wall Splat
-
-- 
-
 # All combos
 
 ## Normal Hit

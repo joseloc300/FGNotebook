@@ -1,7 +1,5 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
-
 # All combos
 
 ## Normal Hit

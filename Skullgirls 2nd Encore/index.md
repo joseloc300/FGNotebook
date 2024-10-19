@@ -2,6 +2,6 @@
 
 # Characters
 
-[Eliza](./Eliza.md)  
+- [Eliza](./Eliza.md)  
 
 [Return to game select](../index.md)  

@@ -4,6 +4,7 @@
 
 - [B. Jenet](./B.%20Jenet.md)  
 - [Luong](./Luong.md)
+- [Mai](./Mai.md)
 
 # Notation
 

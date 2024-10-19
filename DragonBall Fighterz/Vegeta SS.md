@@ -1,4 +1,6 @@
-# Starter Guide
+[Return to character select](./index.md)  
+
+# Tips
 
 - for Lv1, use regular (R1) in the air and alternate (R2) on SKD
 

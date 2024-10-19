@@ -1,6 +1,6 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
+# Wiki
 
 https://wiki.supercombo.gg/w/Ultra_Street_Fighter_IV/Sakura
 

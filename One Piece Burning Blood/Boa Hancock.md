@@ -1,13 +1,8 @@
 [Return to character select](./index.md)  
 
-# Starter Guide
-
-
-
-# Full Guide (WIP, not organized, might have errors)
+# Tips
 
 - the string U, U, R1, A, ... can work without the R1 but is very inconsistent and for that reason combos that use it will have R1 mentioned
-
 
 ## All combos
 

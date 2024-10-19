@@ -1,6 +1,6 @@
-# Starter Guide
+[Return to character select](./index.md)  
 
-# Solo Combos
+# Solo Combos  
 
 ## Regular
 

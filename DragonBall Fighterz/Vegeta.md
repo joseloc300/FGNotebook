@@ -1,4 +1,6 @@
-# Starter Guide
+[Return to character select](./index.md)  
+
+# Tips  
 
 - command grab combos off 214M and 214H but not 214L. To be able to combo hold forward while doing 214 so Vegeta does not jump back at the end
 

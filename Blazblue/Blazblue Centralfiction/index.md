@@ -1,5 +1,9 @@
 [Return to game select](../index.md)  
 
+# Wiki
+
+https://www.dustloop.com/w/BBCF
+
 # Characters
 
 [Ragna](./Ragna.md)  

@@ -28,6 +28,17 @@
 - st.MP (short range but +1 on block and hit confirmable on hit)  
 - 3HK (slow overhead, cant combo after, safe on block but still -)
 
+## st.MP
+
+- DRush, st.MP, cr.MK, qcf.MK - 1820 dmg
+- DRush, st.MP, cr.MP, 28.MK - 2160 dmg
+- DRush, st.MP, cr.MP, 28.KK, ... - ??? dmg
+
+## 4MP
+
+- 4MP, DRush, 4.HP, qcb.P > MK, 28MK - 2532 dmg, +15 after dash (whiff st.LP to be +2 and tick throw or meaty st.LP/st.MP), 5 frame gap on block before 4.HP
+- 4MP, DRush, st.MP, ??? TODO - ??? dmg, +15 after dash (whiff st.LP to be +2 and tick throw or meaty st.LP/st.MP), 1 frame gap on block before st.MP, frametrap
+
 ## Hit-Confirms
 
 - st.LP, st.LP, st.LP, qcfLK  
@@ -47,10 +58,32 @@
 
 ### Slow
 
-- cr.HP, 28HK  
-- cr.HP, Lv1  
-- cr.HP, Lv2, j.c, 2MK, 2MK, 2MK  
-- cr.HP, Lv3
+#### Meterless
+
+- 4.HP > qcb.P > MK > 28.MK - 2720 dmg + DR mixup
+- 6.HK, 4.HP > qcb.P > MK > 22.HK - 3240 dmg
+
+#### No Drive Gauge, Use Super
+
+- 4.HP > qcf.HK, Lv1 - 3320 dmg
+- 6.HK, 4.HP > qcf.HK, Lv1 - 3750 dmg
+- 6.HK, 4.HP > qcf.HK, Lv2, j.c, j.HP > j.HP - 4210 dmg (6.HK can be skipped for less damage as well)
+  - ..., Lv1 - 4720 dmg
+- 6.HK, 4.HP > qcf.HK, Lv3 - 5360 dmg (6.HK can be skipped for less damage as well)
+
+#### No Super-Meter, Use Drive
+
+- DR > 4HP > qcb.HK, cr.MP > DR > st.MP, 4.HP > qcb.P > LK > 28KK, DR > st.LP, qcf.HK - 4129
+- DR > 4HP > qcb.HK, cr.MP > DR > st.MP, 4.HP > DR > st.MP, 4.HP > qcf.HK - 4176
+
+#### All resources
+
+- DR > 4HP > qcb.HK, cr.MP > DR > st.MP, 4.HP > DR > st.MP, 4.HP > qcf.HK, ... - 4176+, can be followed up with Lv1 or Lv3
+
+- DR > 4HP > qcb.HK, cr.MP > DR > st.MP, 4.HP > qcb.P > LK > 28KK, DR > st.LP, qcf.HK - 4129+, can be followed up with any super. Use if you need a Lv2 route
+  - ..., Lv1 - 4639 dmg
+  - ..., Lv2, j.c, j.HP > j.HP - 5009 dmg
+  - ..., Lv3 - 6129 dmg
 
 ### Throw punish
 
