@@ -6,4 +6,8 @@
 - [Tekken 7](./Tekken%207/index.md)
 - [Tekken 8](./Tekken%208/index.md)
 
+# Notation guide
+
+- [Notation Guide](./notationGuide.md)
+
 [Return to series select](../index.md)  

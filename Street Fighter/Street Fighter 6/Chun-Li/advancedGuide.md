@@ -123,8 +123,17 @@
 
 ## Setups
 
+### Mid-Screen
+
 - ... , 22HK (+50), dash, st.LP, st.MP (meaty if recover in place, whiff otherwise)
 - ... , 28LK (+30), dash, 4.HP (meaty if recover in place, whiff otherwise)
+
+### Corner
+
+#### 22HK
+
+- overhead - qcb.P > HP, DR, st.MP, 4.HP, qcb.P > LK > 28MK/28KK, ...
+- low - LP/cr.LP (killframe), qcb.P > MK > 46.PP, st.MP, cr.MP, 28MK/28KK, ...
 
 ## Shortcuts
 

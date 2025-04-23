@@ -8,6 +8,7 @@ wikiURL
 
 ## Guides
 
+- [Current strategy](./currentStrategy.md)
 - [All combos](./allCombos.md)
 
 [Return to character select](../index.md)  

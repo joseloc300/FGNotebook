@@ -1,4 +1,4 @@
-# Ryu
+# Mai Shiranui
 
 characterImage200width
 
@@ -8,6 +8,7 @@ wikiURL
 
 ## Guides
 
+- [Starter Guide](./starterGuide.md)
 - [All combos](./allCombos.md)
 
 [Return to character select](../index.md)  

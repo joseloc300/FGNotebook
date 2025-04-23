@@ -1,4 +1,4 @@
-# Ryu
+# Mai
 
 characterImage200width
 

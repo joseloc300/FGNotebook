@@ -9,5 +9,6 @@ https://www.dustloop.com/w/GBVSR
 - [Beatrix](./Beatrix/index.md)
 - [Gran](./Gran/index.md)
 - [Katalina](./Katalina/index.md)
+- [Narmaya](./Narmaya/index.md)
 
 [Return to game select](../index.md)  

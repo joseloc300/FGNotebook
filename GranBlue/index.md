@@ -2,7 +2,7 @@
 
 # Games
 
-- [GranBlue Fantasy Versus](./Guilty%20Gear%20Strive/index.md)
-- [GranBlue Fantasy Versus Rising](./Guilty%20Gear%20Xrd%20Rev2/index.md)
+- [GranBlue Fantasy Versus](./GranBlue%20Fantasy%20Versus/index.md)
+- [GranBlue Fantasy Versus Rising](./GranBlue%20Fantasy%20Versus%20Rising/index.md)
 
 [Return to series select](../index.md)  

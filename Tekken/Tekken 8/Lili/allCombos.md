@@ -27,7 +27,29 @@
 
 - ws3, df3, b2, 1, b2, 1, f, 3, 3+4 - 63 dmg
 
+- df3+4, d1, ws1~2, ... ?
+
 ## Counter-Hit
+
+### Poke
+
+- f4, uf4, 3, b1, f, 1, 4 - 72 dmg
+- f4, df3+4, 3, 4, b1, f, 3, df3+4, df3+4 - 73 dmg (+2 back turned and close for mixup/pressure?)
+- f4, df3+4, 3, 4, b1, f, 3, b1, f, 1, 4 - 78 dmg
+
+### Pressure
+
+- df3, d1~2~B, b1~F~1~4 - 63 dmg
+- df3, df1, df1, 1, b1~F~3, b1~F~1~4 - 69 dmg
+
+### Challenge
+
+#### High
+
+- db3, df3+4, 3~4, b1~F~3, tornado, ... - x dmg
+- db3, df3+4, 3~4, b1~F~3, b1~F~1~4 - 77 dmg
+
+## Punish
 
 ### Basic
 

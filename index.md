@@ -2,6 +2,8 @@
 
 - [Arcana Heart](./Arcana%20Heart/index.md)
 - [Blazblue](./Blazblue/index.md)
+- [Fatal Fury](./Fatal%20Fury/index.md)
+- [GranBlue](./GranBlue/index.md)
 - [Guilty Gear](./Guilty%20Gear/index.md)
 - [Injustice](./Injustice/index.md)
 - [KING OF FIGHTERS](./King%20Of%20Fighters/index.md)
@@ -12,9 +14,10 @@
 
 # Games
 
+- [Blade Strangers](./Blade%20Strangers/index.md)
 - [Coreupt](./Coreupt/index.md)
-- [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
 - [DNF Duel](./DNF%20Duel/index.md)
+- [Dragonball Fighterz](./DragonBall%20Fighterz/index.md)  
 - [Fight Of Gods](./Fight%20Of%20Gods/index.md)
 - [Fighting EX Layer](./Fighting%20EX%20Layer/index.md)  
 - [Hyper Dragon Ball Z](./Hyper%20Dragon%20Ball%20Z/index.md)
