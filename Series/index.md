@@ -1,0 +1,15 @@
+# Series
+
+- [Arcana Heart](./Arcana%20Heart/index.md)
+- [Blazblue](./Blazblue/index.md)
+- [Fatal Fury](./Fatal%20Fury/index.md)
+- [GranBlue](./GranBlue/index.md)
+- [Guilty Gear](./Guilty%20Gear/index.md)
+- [Injustice](./Injustice/index.md)
+- [KING OF FIGHTERS](./King%20Of%20Fighters/index.md)
+- [Marvel Vs Capcom](./Marvel%20Vs%20Capcom/index.md)
+- [Soul Calibur](./Soul%20Calibur/index.md)  
+- [Street Fighter](./Street%20Fighter/index.md)
+- [Tekken](./Tekken/index.md)
+- [UNDER NIGHT IN-BIRTH](./UNDER%20NIGHT%20IN-BIRTH/index.md)
+- [Virtua Fighter](./Virtua%20Fighter/index.md)
