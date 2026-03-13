@@ -37,4 +37,4 @@
 
 - TODO
 
-[Return to character](./index.md)  
+[Return to character](./index.md)
