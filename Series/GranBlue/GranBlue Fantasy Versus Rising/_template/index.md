@@ -2,7 +2,7 @@
 
 # Template
 
-<img src="" alt="">
+<img src="" alt="" height="300px">
 
 ## Wiki Page
 

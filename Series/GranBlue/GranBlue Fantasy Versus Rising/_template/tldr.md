@@ -40,6 +40,4 @@
 
 - TODO
 
-
-
 [Return to character](./index.md)  
