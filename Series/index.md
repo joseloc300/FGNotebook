@@ -4,7 +4,7 @@
 - [Blazblue](./Blazblue/index.md)
 - [Fatal Fury](./Fatal%20Fury/index.md)
 - [GranBlue](./GranBlue/index.md)
-- [Guilty Gear](./Guilty%20Gear/index.md)
+- [Guilty Gear](./Guilty%20Gear/)
 - [Injustice](./Injustice/index.md)
 - [KING OF FIGHTERS](./King%20Of%20Fighters/index.md)
 - [Marvel Vs Capcom](./Marvel%20Vs%20Capcom/index.md)
