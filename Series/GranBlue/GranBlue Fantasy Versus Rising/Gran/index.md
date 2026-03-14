@@ -1,4 +1,4 @@
-[Return to character select](../index.md)  
+[Return to character select](../)  
 
 # Gran
 
@@ -8,11 +8,11 @@
 
 ## Wiki Page
 
-https://www.dustloop.com/w/GBVSR/Gran
+[https://www.dustloop.com/w/GBVSR/Gran](https://www.dustloop.com/w/GBVSR/Gran)
 
 ## Guides
 
-- [Starter](starter.md)
+- [Starter](./starter.md)
 - [TLDR](./tldr.md)
 - [All combos](./allCombos.md)
 
@@ -26,4 +26,4 @@ https://www.dustloop.com/w/GBVSR/Gran
 
 </div>
 
-[Return to character select](../index.md)
+[Return to character select](../)
