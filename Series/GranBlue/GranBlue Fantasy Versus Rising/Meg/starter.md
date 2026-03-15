@@ -6,7 +6,7 @@
 
 - 214.L - whenever you are using triple attack, if it is blocked, always use this at the end to make sure you're safe. you still lose your turn.
 
-## Poke/Spam/Pressure
+## Pokes/Blockstrings/Frametraps/Plusframes
 
 - f.M > 214.L - true block string (special can't be dodged or reversal), f.M has more reach that it seems since Meg moves forward during it
 - 66L >

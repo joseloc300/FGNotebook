@@ -4,40 +4,42 @@
 
 ## Poke/Spam
 
-- f.H > 214.L
+- TODO
 
 ## Anti-Air
 
-- 2H > 236.H, 214.H
+- TODO
 
 ## Corner-Carry
 
-- a
+- TODO
 
 ## Fast Punish
 
-- a
+- TODO
 
 ## Slow punish
 
-- a
+- TODO
 
 ## Pressure
 
 ### Mid-Screen
 
-- 623.H > U, j.H
+- TODO
 
 ### Corner
 
-- a
+- TODO
 
 ## Corner combo
 
-- a
+- TODO
 
 ## Char specific
 
-- a
+- TODO
+
+
 
 [Return to character](./index.md)  

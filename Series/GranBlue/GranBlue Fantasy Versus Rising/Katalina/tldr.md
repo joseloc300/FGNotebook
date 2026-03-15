@@ -10,7 +10,8 @@
 
 ## Corner-Carry
 
-- a
+- c.MXX > 236U, 66L, c.MXX > 236.U > 66H, 2M, 214.H, 5U~5U~66, c.MXX > 623.L - 6350 dmg
+- c.HXX > 236U, 66L, c.MXX > 236.U > 66H, 2M, 214.H, 5U~5U~66, c.MXX > 623.L - 6850 dmg
 
 ## Fast Punish
 

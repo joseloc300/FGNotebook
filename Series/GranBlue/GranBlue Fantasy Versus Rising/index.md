@@ -11,6 +11,7 @@ https://www.dustloop.com/w/GBVSR
 - [Katalina](./Katalina/index.md)
 - [Meg](./Meg/index.md)
 - [Narmaya](./Narmaya/index.md)
+- [Vira](./Vira/index.md)
 
 # Generic Tips
 
