@@ -1,0 +1,68 @@
+.container-lg {
+  max-width: 80% !important;
+  width: 80% !important;
+  height: 100vh;
+  padding: 32px 0;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.my-5 {
+  margin: 0 auto !important;
+}
+
+/* Main two-column layout */
+.page-layout {
+  flex: 1;
+  display: flex;
+  gap: 20px;
+  overflow: hidden;
+}
+
+/* LEFT SIDE */
+
+.left-panel {
+  flex: 4;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Title always visible */
+.title {
+  background: white;
+  padding: 24px 0 16px 0;
+}
+
+.title h1 {
+  margin: 0;
+}
+
+/* Scrollable content */
+.content {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+/* Prevent anchor jumps from hiding headings */
+.content h2,
+.content h3 {
+  scroll-margin-top: 20px;
+}
+
+/* RIGHT SIDE */
+
+.right-panel {
+  flex: 1;
+  overflow-y: auto;
+  border-left: 1px solid #ddd;
+  padding-left: 15px;
+
+  position: sticky;
+  top: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
