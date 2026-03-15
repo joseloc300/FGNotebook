@@ -1,7 +1,7 @@
 [Return to character](./)  
 
 * TOC
-* {:toc}
+{:toc}
 
 # Starter
 
