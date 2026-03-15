@@ -21,7 +21,7 @@
 
 # Extras
 
-- [Wiki](https://www.dustloop.com/w/GBVSR)
+- [Wiki](https://www.dustloop.com/w/GBVSR){:target="_blank"}
 - [Generic Tips](./genericTips.md)
 
 </div>

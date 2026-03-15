@@ -8,7 +8,7 @@
 
 ## Wiki Page
 
-[url](url)
+[url](url){:target="_blank"}
 
 ## Guides
 

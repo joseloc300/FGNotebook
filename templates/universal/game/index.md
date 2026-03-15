@@ -16,7 +16,7 @@
 
 # Extras
 
-- [Wiki](url)
+- [Wiki](url){:target="_blank"}
 - [Generic Tips](./genericTips.md)
 
 </div>
