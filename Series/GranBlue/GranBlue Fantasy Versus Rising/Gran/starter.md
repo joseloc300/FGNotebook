@@ -2,9 +2,9 @@
 
 # Starter
 
-<div style="display:flex;gap:20px;" markdown="1">
+<div style="display:flex;height:100vh;gap:20px;overflow:hidden;" markdown="1">
 
-<div style="flex:1;" markdown="1">
+<div style="flex:4;overflow-y:auto;padding-right:10px;" markdown="1">
 
 ## Safe ender
 
@@ -60,7 +60,7 @@
 
 </div>
 
-<div style="flex:1;" markdown="1">
+<div style="flex:1;overflow-y:auto;border-left:1px solid #ddd;padding-left:15px;" markdown="1">
 
 * TOC
 {:toc}
