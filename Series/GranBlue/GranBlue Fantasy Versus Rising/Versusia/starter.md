@@ -14,7 +14,7 @@
   - walk up and grab - also beats dodge
   - TODO - if the opponent is dodging after 66L to check them
 
-## Pressure/+frames
+## Pressure/+Frames
 
 - 5.L
 - 66L

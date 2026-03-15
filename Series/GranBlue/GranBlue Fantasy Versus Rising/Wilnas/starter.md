@@ -6,14 +6,14 @@
 
 - 214.L - whenever you are using triple attack, if it is blocked, always use this at the end to make sure you're safe. you still lose your turn.
 
-## Pokes/Blockstrings/Frametraps/Plusframes
+## Pokes/Blockstrings/Frametraps/+Frames
 
 - f.M > 214.L - true block string (special can't be dodged or reversal), has gaps when further away
 - 2M > 214.L - true block string (special can't be dodged or reversal), has gaps when further away
 - f.H > 236.L - true block string (special can't be dodged or reversal), minus but safe when spaced out
-- 214H - +frames, can be blockstring or frametrap
-- 22M - low, slow, +frames
-- 66H - mid, slow, +frames
+- 214H - +Frames, can be blockstring or frametrap
+- 22M - low, slow, +Frames
+- 66H - mid, slow, +Frames
 - 5U - overhead, -onblock, combo on hit with f.L
 
 ## Anti-Air

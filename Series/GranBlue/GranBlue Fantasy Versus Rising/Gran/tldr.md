@@ -30,7 +30,7 @@
 
 ### Corner
 
-- f.H > 236U - true blockstring, +frames (only at max range), 66L to catch mashing if you are plus
+- f.H > 236U - true blockstring, +Frames (only at max range), 66L to catch mashing if you are plus
   - 66L, c.L, 214.H, c.MXX > 623.L - hitconfirm
 
 ## Corner combo

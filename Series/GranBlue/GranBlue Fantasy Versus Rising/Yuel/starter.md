@@ -6,7 +6,7 @@
 
 - 236.L - whenever you are using triple attack, if it is blocked, always use this at the end to make sure you're safe. you still lose your turn.
 
-## Pokes/Blockstrings/Frametraps/Plusframes
+## Pokes/Blockstrings/Frametraps/+Frames
 
 - f.M > 236.L - true block string (special can't be dodged or reversal)
 - f.M[2] > 236.L - frame-traps and still safe ender

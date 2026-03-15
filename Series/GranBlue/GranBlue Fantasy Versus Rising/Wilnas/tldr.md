@@ -8,7 +8,7 @@
   - 236.L - blockstring all ranges
   - 214.M - frametrap
     - c.H, 236.M - on hit, dmg
-    - c.H, 66M - on hit, dash +frames setup, meaty c.H
+    - c.H, 66M - on hit, dash +Frames setup, meaty c.H
 - 
 
 ## Anti-Air

@@ -6,7 +6,7 @@
 
 - 236.M - whenever you are using triple attack, if it is blocked, always use this at the end to make sure you're safe. you still lose your turn.
 
-## Pokes/Blockstrings/Frametraps/Plusframes
+## Pokes/Blockstrings/Frametraps/+Frames
 
 - f.M > 
   - 214.L - true block string (special can't be dodged or reversal)
@@ -19,7 +19,11 @@
 - 66L >
   - corner carry combo
   - walk up and grab - also beats dodge
-- 236.H - plus frames
+- 236.H - +Frames
+
+## Mixups
+
+- +Frames into strike/throw
 
 ## Anti-Air
 

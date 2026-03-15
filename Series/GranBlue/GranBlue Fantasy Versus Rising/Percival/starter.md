@@ -6,7 +6,7 @@
 
 - TODO - whenever you are using triple attack, if it is blocked, always use this at the end to make sure you're safe. you still lose your turn.
 
-## Pokes/Blockstrings/Frametraps/Plusframes
+## Pokes/Blockstrings/Frametraps/+Frames
 
 - TODO - true block string (special can't be dodged or reversal)
 - 66L >
