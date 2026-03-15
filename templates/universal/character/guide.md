@@ -7,6 +7,7 @@
 <div class="title" markdown="1">
 
 # Guide Name <!-- TODO - replace with guide name -->
+{: .no_toc }
 
 </div>
 
@@ -27,6 +28,8 @@
 </div>
 
 <div class="right-panel" markdown="1">
+
+Contents
 
 * TOC
 {:toc}
