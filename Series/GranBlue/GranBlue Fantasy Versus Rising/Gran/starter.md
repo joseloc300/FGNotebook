@@ -1,9 +1,10 @@
 [Return to character](./)  
 
-* TOC
-{:toc}
-
 # Starter
+
+<div style="display:flex;gap:20px;" markdown="1">
+
+<div style="flex:1;" markdown="1">
 
 ## Safe ender
 
@@ -57,6 +58,15 @@
 
 - TODO
 
+</div>
 
+<div style="flex:1;" markdown="1">
+
+* TOC
+{:toc}
+
+</div>
+
+</div>
 
 [Return to character](./)
