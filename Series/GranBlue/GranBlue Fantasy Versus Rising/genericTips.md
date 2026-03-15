@@ -1,4 +1,4 @@
-[Return to game](../)
+[Return to game](./)
 
 # Generic Tips
 
@@ -7,4 +7,4 @@
 - loses to f.L, f.H (might not be for all characters)
 - f.L into the safe ender special will likely leave you with +Frames after the dodge ends letting you continue pressure or counter-hit mashing
 
-[Return to game](../)
+[Return to game](./)

@@ -1,4 +1,4 @@
-[Return to game](../)
+[Return to game](./)
 
 # Generic Tips
 
@@ -6,4 +6,4 @@
 
 - TODO
 
-[Return to game](../)
+[Return to game](./)
