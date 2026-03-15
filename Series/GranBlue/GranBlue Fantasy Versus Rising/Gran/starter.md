@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/characterGuide.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/characterGuide.css">
 
 <div class="page-layout" markdown="1">
 
