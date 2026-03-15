@@ -1,8 +1,10 @@
-[Return to game select](../)  
+<img src="https://www.dustloop.com/wiki/images/5/52/GBVSR_Logo.png" alt="" height="200px">
 
-# Wiki
+[Return to game select](../)
 
-https://www.dustloop.com/w/GBVSR
+<div style="display:flex;gap:20px;" markdown="1">
+
+<div style="flex:1;" markdown="1">
 
 # Characters
 
@@ -13,11 +15,17 @@ https://www.dustloop.com/w/GBVSR
 - [Narmaya](./Narmaya/)
 - [Vira](./Vira/)
 
-# Generic Tips
+</div>
 
-## Dodge after 66L
+<div style="flex:1;" markdown="1">
 
-- loses to f.L, f.H (might not be for all characters)
-- f.L into the safe ender special will likely leave you with +frames after the dodge ends letting you continue pressure or counter-hit mashing
+# Extras
 
-[Return to game select](../)  
+- [Wiki](https://www.dustloop.com/w/GBVSR)
+- [Generic Tips](./genericTips.md)
+
+</div>
+
+</div>
+
+[Return to game select](../)
