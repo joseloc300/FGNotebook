@@ -8,7 +8,7 @@
 
 ## Wiki Page
 
-[https://www.dustloop.com/w/GBVSR/Gran](https://www.dustloop.com/w/GBVSR/Gran)
+[https://www.dustloop.com/w/GBVSR/Gran](https://www.dustloop.com/w/GBVSR/Gran){:target="_blank"}
 
 ## Guides
 
