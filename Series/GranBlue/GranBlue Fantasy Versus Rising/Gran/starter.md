@@ -1,5 +1,7 @@
 [Return to character](./)  
 
+* TOC {:toc}
+
 # Starter
 
 ## Safe ender
