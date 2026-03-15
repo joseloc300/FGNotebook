@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All combos
 
@@ -20,4 +20,4 @@
 
 - qcf.K > qcfqcf.AC > qcb.hcf.CD
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

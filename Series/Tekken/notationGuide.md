@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # source
 
@@ -146,4 +146,4 @@ SWR – Sidewalk right – same as SSR but tapping then holding down the button.
 Wall Carry – a combo that is designed around taking your opponent to the wall.
 Wallsplat – a move designed to splat the opponent vs the wall for a followup combo. This allows you to further combo an opponent similar to juggling. Damage scaling is reduced when the opponent is very low on the wall; so delaying your string can be an effective method for dishing out higher damage in a combo.
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

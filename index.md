@@ -1,7 +1,7 @@
 # Series
 
-- [Games](./Games/index.md)
-- [Series](./Series/index.md)
+- [Games](./Games/)
+- [Series](./Series/)
 
 # Universal Guide for Keyboard Mapping
 

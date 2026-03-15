@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Vs Guide
 
@@ -15,4 +15,4 @@
   - 1 - 
   - 1, 1 - uppercut follow-up, -14, KNOCKDOWN
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

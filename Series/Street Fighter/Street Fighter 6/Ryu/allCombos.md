@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # All combos
 
@@ -50,4 +50,4 @@
 - cr.HP, qcb.KK, Lv2 - 3700
 - cr.HP, qcb.LP (w/ denjin charge), qcb.KK, qcf.MK, Lv3 - 5030
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

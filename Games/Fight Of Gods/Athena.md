@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -26,4 +26,4 @@
 - H > 2H, 2H > 2H, super - 580 
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

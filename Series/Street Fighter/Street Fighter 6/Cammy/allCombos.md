@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # All combos
 
@@ -76,4 +76,4 @@
 - st.HP, Lv2, [dp.HK] - 3264, loses corner
 - st.HP, Lv3 - 4240
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

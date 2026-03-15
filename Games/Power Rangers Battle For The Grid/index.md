@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -7,4 +7,4 @@
 [Kat Manx](Kat%20Manx.md)  
 [Lord Drakkon](./Lord%20Drakkon.md)  
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Solo Combos  
 
@@ -56,4 +56,4 @@
 
 - 2M, 5M, j.c, j.L, j.LL, j.S, j.236S, SD, j.L, j.LL, j.S, j.236S, spark, 2M, 5M, j.c, j.L, j.LL, j.2S, j.236S, SD, j.L, j.LL, j.2H, j.236H, Vanish, \[DR\], Lv1 \(air\), Lv1 \(alt\), Lv3 - 10002 dmg
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

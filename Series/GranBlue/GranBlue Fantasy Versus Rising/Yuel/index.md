@@ -10,4 +10,4 @@ https://www.dustloop.com/w/GBVSR/Yuel
 
 - [All combos](./allCombos.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

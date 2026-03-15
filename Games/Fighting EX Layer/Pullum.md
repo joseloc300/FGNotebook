@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -23,4 +23,4 @@
 - st.LP, st.MP, st.HK, qcfqcf.K > qcbqcb.K, qcfqcf.K - 62 dmg
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

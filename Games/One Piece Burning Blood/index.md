@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -6,4 +6,4 @@
 [Law](./Law.md)  
 [Nami](./Nami.md)  
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

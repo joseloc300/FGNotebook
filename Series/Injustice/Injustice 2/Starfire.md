@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -11,4 +11,4 @@
 
 - j.3, qcf3
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

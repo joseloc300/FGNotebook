@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 ## All combos
 
@@ -18,4 +18,4 @@
 
 - Sp.A, Sp.G, U, HGB
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

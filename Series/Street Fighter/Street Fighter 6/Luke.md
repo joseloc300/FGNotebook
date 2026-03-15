@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -179,4 +179,4 @@ In all these, qcf.LP can be perfect or fully charged so its better to hold till 
 | -     | -      | -         | -        | -              | -                    | -     |
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

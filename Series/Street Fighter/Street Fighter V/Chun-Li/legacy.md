@@ -198,4 +198,4 @@ VT1 available, 3 Bars
 ? Dmg, ? Stun, +? (Counter hit)  
 509 Dmg , 493 Stun, +? (Counter hit + Invuln punish)   
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

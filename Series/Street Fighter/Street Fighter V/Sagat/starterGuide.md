@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -58,4 +58,4 @@
 - 6HK, 6HK, st.LP, dp.HP 279  
 - 6HK, 6HK, st.LP, qcf.LP, CA 407  
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -26,4 +26,4 @@
 
 [Teams](./Teams.md)  
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

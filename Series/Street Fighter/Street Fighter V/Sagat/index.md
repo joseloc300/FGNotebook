@@ -11,4 +11,4 @@ wikiURL
 - [All combos](./allCombos.md)
 - [Starter Guide](./starterGuide.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

@@ -18,4 +18,4 @@
 - (whiff 5L), 5LL, 5LLL, SD, j.L, j.LL, j.2H, j.c, j.L, j.LL, 214M, A2, 4L, 5L, 5LL, 5LLL, SD, j.L, j.LL, j.2H, j.c, j.L, j.LL, 214L, A1, 5L, 5LL, 5LLL, Vanish, Dash, 214S->H, A2, Lvl1, A1, 4A2
   - Anywhere, 10.1k dmg, 3.5 Bars, In-Spark
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

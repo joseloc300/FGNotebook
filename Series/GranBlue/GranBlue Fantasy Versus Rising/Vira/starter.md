@@ -1,4 +1,4 @@
-[Return to character](./index.md)  
+[Return to character](./)  
 
 # Starter
 
@@ -36,4 +36,4 @@
 
 
 
-[Return to character](./index.md)  
+[Return to character](./)  

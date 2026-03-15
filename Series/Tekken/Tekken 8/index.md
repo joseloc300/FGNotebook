@@ -1,7 +1,7 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
-- [Lili](./Lili/index.md)
+- [Lili](./Lili/)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

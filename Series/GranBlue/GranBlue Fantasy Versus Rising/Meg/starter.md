@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter
 
@@ -36,4 +36,4 @@
 
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

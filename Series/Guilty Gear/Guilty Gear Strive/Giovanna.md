@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -59,4 +59,4 @@
 - 
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All combos
 
@@ -129,4 +129,4 @@
 - [5D], j.c, 5H, 5K, 5S, 5H, 5D, 5D - 199 dmg, KD
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

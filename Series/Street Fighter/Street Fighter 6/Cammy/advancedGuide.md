@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Advanced Guide
 
@@ -9,4 +9,4 @@
 - st.MP, st.HP > DR
 - cr.HP, st.HP > DR
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

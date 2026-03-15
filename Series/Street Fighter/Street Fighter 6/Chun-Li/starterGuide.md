@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Starter Guide
 
@@ -85,4 +85,4 @@
 - 4HP, qcf.HK
 - st.HK, qcb\*P -> MK, 22KK
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

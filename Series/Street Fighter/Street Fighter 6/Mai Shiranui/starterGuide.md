@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Starter Guide
 
@@ -40,4 +40,4 @@
 - st.HP > qcf.HK > qcb.HK, dp.HP
 - st.HP > qcf.HK > qcb.HK, Lv1
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

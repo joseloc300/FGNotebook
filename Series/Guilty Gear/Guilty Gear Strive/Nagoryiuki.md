@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -52,4 +52,4 @@
 - 6HS, 214HS, 263HS, dash-RC, c.S, 2HS, 263HS, 236K, super - 314 - wall break, 1.5 blood meter
 - 6HS, 214HS, 263HS, dash-RC, delay, 2HS, 263HS, 236K, super - 326 - wall break, 1.5 blood meter
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

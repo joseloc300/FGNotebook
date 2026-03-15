@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -6,4 +6,4 @@
 - [Ryu](Ryu.md)
 - [Wolverine](Wolverine.md)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

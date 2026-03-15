@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # All combos
 
@@ -41,4 +41,4 @@
 
 - 
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

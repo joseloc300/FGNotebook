@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -6,4 +6,4 @@
 - [Julia](./Julia.md)
 - [Kazuya](./Kazuya.md)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

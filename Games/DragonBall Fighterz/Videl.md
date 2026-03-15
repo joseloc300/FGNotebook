@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Solo Combos  
 
@@ -36,4 +36,4 @@
 
 - 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

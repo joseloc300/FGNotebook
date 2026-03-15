@@ -14,4 +14,4 @@ https://wiki.supercombo.gg/w/Street_Fighter_6/Cammy
 - Vs Guide (N/A)
 - Matchups (N/A)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

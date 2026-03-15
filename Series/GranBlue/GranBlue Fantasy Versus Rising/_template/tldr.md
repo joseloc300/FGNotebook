@@ -1,4 +1,4 @@
-[Return to character](./index.md)  
+[Return to character](./)  
 
 # TLDR
 
@@ -40,4 +40,4 @@
 
 - TODO
 
-[Return to character](./index.md)
+[Return to character](./)

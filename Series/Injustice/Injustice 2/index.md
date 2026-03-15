@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -44,4 +44,4 @@ xx = Cancel
 
 - [source](https://gamefaqs.gamespot.com/boards/672472-injustice-gods-among-us/66298848)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

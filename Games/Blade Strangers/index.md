@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Wiki
 
@@ -8,4 +8,4 @@
 
 - [Solange](./Solange.md)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

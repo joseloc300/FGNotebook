@@ -1,4 +1,4 @@
-[Return to character select](../index.md)  
+[Return to character select](../)  
 
 # Wilnas
 
@@ -14,4 +14,4 @@ https://www.dustloop.com/w/GBVSR/Wilnas
 - [TLDR](./tldr.md)
 - [All combos](./allCombos.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

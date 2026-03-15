@@ -25,7 +25,7 @@ This means that combos can have more damage/stun if it's a counter-hit and/or it
 
 ---
 
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 ## Anti-Air
 4MP (fast)
@@ -147,4 +147,4 @@ Counter-hit, VT1 available, 3 Bars
 503 Dmg , 518 Stun, +? (Counter hit + Invuln punish)   
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

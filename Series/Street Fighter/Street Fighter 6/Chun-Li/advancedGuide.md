@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Advanced Guide
 
@@ -160,4 +160,4 @@
 
 - 
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

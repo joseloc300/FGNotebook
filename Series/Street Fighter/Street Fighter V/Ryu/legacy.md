@@ -39,4 +39,4 @@ This means that combos can have more damage/stun if it's a counter-hit and/or it
 
 ---
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

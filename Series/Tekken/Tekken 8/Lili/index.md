@@ -11,4 +11,4 @@ wikiURL
 - [Current strategy](./currentStrategy.md)
 - [All combos](./allCombos.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

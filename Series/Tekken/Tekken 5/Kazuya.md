@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -12,4 +12,4 @@
 
 - df2, f neutral df2 - 48 dmg
 
-[Return to character select](./index.md)
+[Return to character select](./)

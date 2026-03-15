@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -153,4 +153,4 @@ The above is specially true in jumps, forward jumping allows you to combo into c
 | -     | -      | -         | -        | -              | -                    | -     |
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

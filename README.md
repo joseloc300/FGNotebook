@@ -1,3 +1,3 @@
 # FGNotebook
 
-[Homepage](./index.md)
+[Homepage](./)

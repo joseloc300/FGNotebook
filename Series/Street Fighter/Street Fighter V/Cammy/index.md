@@ -11,4 +11,4 @@ wikiURL
 - [All combos](./allCombos.md)
 - [Legacy](legacy.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

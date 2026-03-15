@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -29,4 +29,4 @@
 
 - uf3, d2, 2, 3, ff3, 1, 2 - 52 dmg
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

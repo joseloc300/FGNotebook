@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Starter Guide
 
@@ -53,4 +53,4 @@
 
 - st.HP, qcb.MK, dp.LP - 2690 dmg
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

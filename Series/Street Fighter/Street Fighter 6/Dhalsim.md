@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -136,4 +136,4 @@
 
 - st.LP > hcb.PP, Lv3 - 4280
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

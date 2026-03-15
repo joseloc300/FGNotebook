@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # All combos
 
@@ -159,4 +159,4 @@ st.LP, b.HP, st.LK, qcfMK 1948 Very Hard
 
 - st.HK, qcb\*P -> MK, DR, 4.HP, qcb\*P -> MK, DR, 4.HP, qcb\*P -> MK, qcf.MK, CA - 6118
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

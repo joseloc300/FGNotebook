@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Wiki
 
@@ -22,4 +22,4 @@ https://wiki.gbl.gg/w/Iron_Saga_VS/Kaguya
 - 6CC, 5C > 2D > 214.A > 214.B - 237 dmg
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

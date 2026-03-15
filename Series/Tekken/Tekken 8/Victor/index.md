@@ -10,4 +10,4 @@ wikiURL
 
 - [Vs Guide](./vsGuide.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

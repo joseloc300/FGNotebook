@@ -10,4 +10,4 @@ https://wiki.gbl.gg/w/Arcana_Heart_3/AH3X/Petra_Johanna_Lagerkvist
 
 - [All combos](./allCombos.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

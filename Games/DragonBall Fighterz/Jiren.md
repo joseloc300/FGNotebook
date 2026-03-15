@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Solo Combos  
 
@@ -32,4 +32,4 @@
 
 - 5M, 5MM, 5S, 236S, spark, 2M, 5S, 5H, 2S, SD, j.M, j.L, j.L, j.c, j.M, j.L, j.L, j.2S, j.[2H], 236S, Vanish, 2M, 236H > Lv1.R2, Lv3 - 10000 dmg, requires ? bars
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

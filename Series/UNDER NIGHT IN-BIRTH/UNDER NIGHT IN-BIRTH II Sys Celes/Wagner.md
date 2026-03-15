@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Wiki
 
@@ -30,4 +30,4 @@ https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Wagner
 - 
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

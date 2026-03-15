@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Solo Combos  
 
@@ -61,4 +61,4 @@
   - A1 - Vegeta SS, A2 - Vegeta
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

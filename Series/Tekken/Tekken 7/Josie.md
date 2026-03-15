@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -65,4 +65,4 @@
     df2, d3, 4, wait, f1, 3, dash, 1, 2, 2, wall, dash, f2, f3, f4  
 </p>
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

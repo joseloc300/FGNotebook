@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Wiki
 
@@ -8,4 +8,4 @@ https://www.dustloop.com/w/BBTag
 
 - [Susanoo](./Susanoo.md)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

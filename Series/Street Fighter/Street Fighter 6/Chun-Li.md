@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -273,4 +273,4 @@ Available combos below
   - 4.HP, 22.HK
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

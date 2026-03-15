@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Starter Guide
 
@@ -33,4 +33,4 @@
 - st.HK, st.HP, qcb.HK - 228 dmg, 370 stun
   - ... > CA - 432 dmg, 370 stun
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

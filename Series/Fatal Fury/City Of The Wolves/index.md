@@ -1,9 +1,9 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
-- [Chun-Li](./Chun-Li/index.md)
-- [Mai](./Mai/index.md)
+- [Chun-Li](./Chun-Li/)
+- [Mai](./Mai/)
 
 # Notation
 
@@ -12,4 +12,4 @@
 - C - heavy punch
 - D - heavy kick
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

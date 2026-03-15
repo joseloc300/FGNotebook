@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All Combos  
 
@@ -16,4 +16,4 @@
 
 - 
 
-[Return to character select](./index.md)
+[Return to character select](./)

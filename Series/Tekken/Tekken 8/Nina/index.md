@@ -14,4 +14,4 @@ wikiURL
 - [Vs Guide](./vsGuide.md)
 - [Matchups](./matchups.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

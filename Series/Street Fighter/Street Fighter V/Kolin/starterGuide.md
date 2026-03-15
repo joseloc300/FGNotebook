@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Starter Guide
 
@@ -38,4 +38,4 @@
 - st.HP, qcb.LK > P > CA - 407, 300
 - st.HP > qcf.HP > CA - 407, 300
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

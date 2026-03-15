@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All combos
 
@@ -13,4 +13,4 @@
 - 6A, 214B, 214D, 623D, 236C, 236C
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

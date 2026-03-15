@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All combos
 
@@ -35,4 +35,4 @@
 - cr.MK, qcb.KK, qcf.PP, U2 - 452 dmg (UCD), 2 bars, Ultra
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

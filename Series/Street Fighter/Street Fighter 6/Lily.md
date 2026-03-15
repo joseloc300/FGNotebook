@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -144,4 +144,4 @@
 - 4.HP, qcf.KK > Lv2 - 3500
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

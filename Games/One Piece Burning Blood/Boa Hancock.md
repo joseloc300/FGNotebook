@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Tips
 
@@ -21,4 +21,4 @@
 
 - U, U, A, A, A, A, U, U, Sp.A
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

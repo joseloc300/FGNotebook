@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Wiki
 
@@ -8,4 +8,4 @@ https://wiki.supercombo.gg/w/Marvel_vs_Capcom
 
 - [Venom](Venom.md)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

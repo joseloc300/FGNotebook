@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Wiki
 
@@ -6,12 +6,12 @@ https://www.dustloop.com/w/GBVSR
 
 # Characters
 
-- [Beatrix](./Beatrix/index.md)
-- [Gran](./Gran/index.md)
-- [Katalina](./Katalina/index.md)
-- [Meg](./Meg/index.md)
-- [Narmaya](./Narmaya/index.md)
-- [Vira](./Vira/index.md)
+- [Beatrix](./Beatrix/)
+- [Gran](./Gran/)
+- [Katalina](./Katalina/)
+- [Meg](./Meg/)
+- [Narmaya](./Narmaya/)
+- [Vira](./Vira/)
 
 # Generic Tips
 
@@ -20,4 +20,4 @@ https://www.dustloop.com/w/GBVSR
 - loses to f.L, f.H (might not be for all characters)
 - f.L into the safe ender special will likely leave you with +frames after the dodge ends letting you continue pressure or counter-hit mashing
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

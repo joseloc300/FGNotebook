@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Starter Guide
 
@@ -185,4 +185,4 @@
 
 - st.HP, qcb.HK, dp.HP - 2180
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

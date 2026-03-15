@@ -1,7 +1,7 @@
-[Return to series select](../index.md)  
+[Return to series select](../)  
 
 # Games
 
-- [Soul Calibur VI](./Soul%20Calibur%20VI/index.md)  
+- [Soul Calibur VI](./Soul%20Calibur%20VI/)  
 
-[Return to series select](../index.md)  
+[Return to series select](../)  

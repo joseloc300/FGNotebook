@@ -1,7 +1,7 @@
-[Return to series select](../index.md)  
+[Return to series select](../)  
 
 # Games
 
-- [Injustice 2](./Injustice%202/index.md)
+- [Injustice 2](./Injustice%202/)
 
-[Return to series select](../index.md)  
+[Return to series select](../)  

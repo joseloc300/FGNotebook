@@ -1,7 +1,7 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
 - a 
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

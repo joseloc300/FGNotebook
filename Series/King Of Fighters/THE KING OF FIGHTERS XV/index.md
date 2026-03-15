@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -13,4 +13,4 @@
 - C - heavy punch
 - D - heavy kick
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

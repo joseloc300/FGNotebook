@@ -1,4 +1,4 @@
-[Return to character](./index.md)  
+[Return to character](./)  
 
 # All combos
 
@@ -30,4 +30,4 @@
 
 - c.H, f.H > 236U > c.H > 22.H, c.H > 214.H, c.H > 236.H - from 66H
 
-[Return to character](./index.md)  
+[Return to character](./)  

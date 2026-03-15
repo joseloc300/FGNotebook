@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Regular
 
@@ -32,4 +32,4 @@
 
 - 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

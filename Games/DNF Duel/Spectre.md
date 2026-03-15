@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # All combos
 
@@ -25,4 +25,4 @@
 - 5B, 2B, 2S, j.c, j.B, j.BB, 5B, 5S, 6S, 6MS, j.3MS, AS - 501 dmg
 - 5B, 2B, 6S, j.c, j.B, j.BB, 5B, 5S, 6S, 6MS, j.3MS, AS - 561 dmg
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

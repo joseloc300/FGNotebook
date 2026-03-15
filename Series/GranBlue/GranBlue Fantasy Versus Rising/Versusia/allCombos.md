@@ -1,4 +1,4 @@
-[Return to character](./index.md)  
+[Return to character](./)  
 
 # All combos
 
@@ -33,4 +33,4 @@
 
 - 
 
-[Return to character](./index.md)  
+[Return to character](./)  

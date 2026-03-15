@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # Starter Guide
 
@@ -61,4 +61,4 @@
 - 2.HS
 - [5D]
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

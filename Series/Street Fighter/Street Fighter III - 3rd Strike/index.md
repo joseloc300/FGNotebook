@@ -1,4 +1,4 @@
-[Return to game select](../index.md)  
+[Return to game select](../)  
 
 # Characters
 
@@ -7,4 +7,4 @@
 - [Necro](./Necro.md)
 - [Ryu](./Ryu.md)
 
-[Return to game select](../index.md)  
+[Return to game select](../)  

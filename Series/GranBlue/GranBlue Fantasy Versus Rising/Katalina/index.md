@@ -11,4 +11,4 @@ https://www.dustloop.com/w/GBVSR/Ilsa
 - [TLDR](./tldr.md)
 - [All combos](./allCombos.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

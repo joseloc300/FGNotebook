@@ -1,4 +1,4 @@
-[Return to character select](./index.md)  
+[Return to character select](./)  
 
 # Launcher
 
@@ -21,4 +21,4 @@
 - st.HP > qcf.HP - 44 dmg
 
 
-[Return to character select](./index.md)  
+[Return to character select](./)  

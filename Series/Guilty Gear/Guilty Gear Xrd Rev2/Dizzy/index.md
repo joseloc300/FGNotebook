@@ -10,4 +10,4 @@ https://www.dustloop.com/w/GGXRD-R2/Dizzy
 
 - [All combos](./allCombos.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  

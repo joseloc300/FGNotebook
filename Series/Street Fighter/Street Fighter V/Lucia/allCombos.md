@@ -1,4 +1,4 @@
-[Return to character page](./index.md)  
+[Return to character page](./)  
 
 # All combos
 
@@ -87,4 +87,4 @@
 - st.LP, st.MP, cr.MK > qcf.PP > P, qcf.LK > KK, dp.HK - 283 dmg, 476 stun
 - st.LP, st.MP, cr.MK > qcf.PP > P, qcf.LK > KK, qcf.P > K - 291 dmg, 476 stun
 
-[Return to character page](./index.md)  
+[Return to character page](./)  

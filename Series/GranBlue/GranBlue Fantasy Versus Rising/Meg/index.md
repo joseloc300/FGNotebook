@@ -11,4 +11,4 @@ https://www.dustloop.com/w/GBVSR/Narmaya
 - [All combos](./allCombos.md)
 - [Starter](./starter.md)
 
-[Return to character select](../index.md)  
+[Return to character select](../)  
