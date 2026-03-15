@@ -12,4 +12,5 @@
 - [One Piece Burning Blood](./One%20Piece%20Burning%20Blood/index.md)  
 - [Power Rangers Battle For The Grid](./Power%20Rangers%20Battle%20For%20The%20Grid/index.md)  
 - [Skullgirls 2nd Encore](./Skullgirls%202nd%20Encore//index.md)  
+- [SNK vs Capcom - SVC Chaos](./SNK%20vs%20Capcom%20-%20SVC%20Chaos/index.md)
 - [Them's Fightin' Herds](./Them's%20Fightin'%20Herds/index.md)
