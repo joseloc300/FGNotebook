@@ -8,12 +8,18 @@
 
 # Characters
 
+- [Anila](./Anila/)
 - [Beatrix](./Beatrix/)
 - [Gran](./Gran/)
+- [Ilsa](./Ilsa/)
 - [Katalina](./Katalina/)
 - [Meg](./Meg/)
 - [Narmaya](./Narmaya/)
+- [Percival](./Percival/)
+- [Versusia](./Versusia/)
 - [Vira](./Vira/)
+- [Wilnas](./Wilnas/)
+- [Yuel](./Yuel/)
 
 </div>
 
