@@ -1,5 +1,6 @@
 {% include templates/universal/character/index.md %}
 
+<!-- charName -->
 {% capture charName %}
 # Zeta
 {% endcapture %}

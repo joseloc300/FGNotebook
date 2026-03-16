@@ -1,9 +1,11 @@
 {% include templates/universal/character/index.md %}
 
+<!-- charName -->
 {% capture charName %}
 # Character Name
 {% endcapture %}
 
+<!-- charIndexLeftPane -->
 <!-- {% capture charIndexLeftPane %}
 # TODO - optional
 {% endcapture %} -->

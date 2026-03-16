@@ -4,26 +4,14 @@
 {% capture gameIndexLeftPane %}
 # Characters
 
-- [Anila](./Anila/)
-- [Beatrix](./Beatrix/)
-- [Gran](./Gran/)
-- [Ilsa](./Ilsa/)
-- [Katalina](./Katalina/)
-- [Meg](./Meg/)
-- [Narmaya](./Narmaya/)
-- [Percival](./Percival/)
-- [Versusia](./Versusia/)
-- [Vira](./Vira/)
-- [Wilnas](./Wilnas/)
-- [Yuel](./Yuel/)
-- [Zeta](./Zeta/)
+- [TODOPlaceholder](./TODOPlaceholder/)
 {% endcapture %}
 
 <!-- gameIndexRightPane -->
 {% capture gameIndexRightPane %}
 # Extras
 
-- [Wiki](https://www.dustloop.com/w/GBVSR){:target="_blank"} <!-- TODO - replace with wiki URL -->
+- [Wiki](){:target="_blank"} <!-- TODO - replace with wiki URL -->
 - [Generic Tips](./genericTips.md)
 {% endcapture %}
 
@@ -34,6 +22,6 @@
     const gameIndexRightPaneHTML = `{{ gameIndexRightPane | markdownify }}`;
     document.querySelector('.gameIndexRightPane').innerHTML = gameIndexRightPaneHTML;
     
-    const gameIndexLogoSrc = "https://www.dustloop.com/wiki/images/5/52/GBVSR_Logo.png"
+    const gameIndexLogoSrc = "" // TODO - replace with game logo src
     document.querySelector('.gameIndexLogo').src = gameIndexLogoSrc;
 </script>
