@@ -6,15 +6,15 @@
 
 <div style="flex:1;" markdown="1">
 
-## Wiki Page
-
-[https://www.dustloop.com/w/GBVSR/Gran](https://www.dustloop.com/w/GBVSR/Gran){:target="_blank"}
-
 ## Guides
 
 - [Starter](./starter.md)
 - [TLDR](./tldr.md)
 - [All combos](./allCombos.md)
+
+## Extras
+
+- [Wiki Page](https://www.dustloop.com/w/GBVSR/Gran){:target="_blank"}
 
 </div>
 
