@@ -30,7 +30,7 @@
 
 <div style="flex:1;" markdown="1">
 
-<img class="charIndexCharPortrait" src="" alt="" height="300px">
+<img class="charIndexCharPortrait" src="" alt="" height="300px" width="auto">
 
 </div>
 
