@@ -1,58 +1,63 @@
-
 {% include templates/universal/character/guideBase.md %}
 
 {% capture charGuideName %}
-# TLDR
+# All combos
 
 [Return to character](./)
 {% endcapture %}
 
 {% capture charGuideContent %}
-## Gameplan
-
-- TODO
-
-## Char specific
-
-- TODO
-
-## Poke/Spam
-
-- TODO
-
-## Pressure
+## Normal Hit
 
 ### Mid-Screen
 
-- TODO
+<div class="allCombosNormalMidScreen" markdown="1">
+
+- TODO - BasePlaceholder
+
+</div>
 
 ### Corner
 
-- TODO
+<div class="allCombosNormalCorner" markdown="1">
 
-## Setups
+- TODO - BasePlaceholder
 
-- TODO
+</div>
 
-## Anti-Air
+### Cornered
 
-- TODO
+<div class="allCombosNormalCornered" markdown="1">
 
-## Corner-Carry
+- TODO - BasePlaceholder
 
-- TODO
+</div>
 
-## Corner combo
+## Counter Hit
 
-- TODO
+### Mid-Screen
 
-## Fast Punish
+<div class="allCombosCounterMidScreen" markdown="1">
 
-- TODO
+- TODO - BasePlaceholder
 
-## Slow punish
+</div>
 
-- TODO
+### Corner
+
+<div class="allCombosCounterCorner" markdown="1">
+
+- TODO - BasePlaceholder
+
+</div>
+
+### Cornered
+
+<div class="allCombosCounterCornered" markdown="1">
+
+- TODO - BasePlaceholder
+
+</div>
 
 {% endcapture %}
 
@@ -61,8 +66,6 @@ Contents
 
 <div class="toc"></div>
 
-* TOC
-{:toc}
 {% endcapture %}
 
 <script>
@@ -74,16 +77,4 @@ Contents
 
     const charGuideTocHTML = `{{ charGuideTOC | markdownify }}`;
     document.querySelector('.charGuideTOC').innerHTML = charGuideTocHTML;
-</script>
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/tocbot/dist/tocbot.min.js"></script>
-<script>
-tocbot.init({
-  tocSelector: '.toc',
-  contentSelector: '.charGuideContent',
-  headingSelector: 'h2, h3',
-  orderedList: false
-});
 </script>
