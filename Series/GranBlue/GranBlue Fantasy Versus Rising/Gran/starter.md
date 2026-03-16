@@ -13,6 +13,10 @@
 
 <div class="content" markdown="1">
 
+## Char specific
+
+- TODO
+
 ## Safe ender
 
 - 236.M - whenever you are using triple attack, if it is blocked, always use this at the end to make sure you're safe. you still lose your turn.
@@ -60,10 +64,6 @@
 - c.MXX > 214.H > c.MXX >
   - super - if you have it
   - 623.L - if you don't
-
-## Char specific
-
-- TODO2
 
 </div>
 
