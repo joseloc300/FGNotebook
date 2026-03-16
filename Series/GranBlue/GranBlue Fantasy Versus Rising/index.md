@@ -20,6 +20,7 @@
 - [Vira](./Vira/)
 - [Wilnas](./Wilnas/)
 - [Yuel](./Yuel/)
+- [Zeta](./Zeta/)
 
 </div>
 
