@@ -9,6 +9,8 @@
 # Starter
 {: .no_toc }
 
+[Return to character](./)
+
 </div>
 
 <div class="content" markdown="1">
@@ -79,5 +81,3 @@ Contents
 </div>
 
 </div>
-
-[Return to character](./)

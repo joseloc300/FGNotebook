@@ -1,6 +1,19 @@
-[Return to character select](./)  
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/characterGuide.css">
+
+<div class="page-layout" markdown="1">
+
+<div class="left-panel" markdown="1">
+
+<div class="title" markdown="1">
 
 # All combos
+{: .no_toc }
+
+[Return to character](./)
+
+</div>
+
+<div class="content" markdown="1">
 
 ## Normal Hit
 
@@ -39,4 +52,17 @@
 
 - 
 
-[Return to character select](./)  
+</div>
+
+</div>
+
+<div class="right-panel" markdown="1">
+
+Contents
+
+* TOC
+{:toc}
+
+</div>
+
+</div>

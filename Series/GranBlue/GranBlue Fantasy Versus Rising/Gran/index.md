@@ -1,6 +1,6 @@
-[Return to character select](../)  
-
 # Gran
+
+[Return to character select](../)  
 
 <div style="display:flex;gap:20px;" markdown="1">
 
@@ -25,5 +25,3 @@
 </div>
 
 </div>
-
-[Return to character select](../)
