@@ -6,15 +6,15 @@
 
 <div style="flex:1;" markdown="1">
 
-## Wiki Page
-
-[url](url){:target="_blank"}
-
 ## Guides
 
 - [Starter](./starter.md)
 - [TLDR](./tldr.md)
 - [All combos](./allCombos.md)
+
+## Extras
+
+- [Wiki Page](url){:target="_blank"}
 
 </div>
 

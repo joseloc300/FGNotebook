@@ -1,5 +1,3 @@
-[Return to character](./)  
-
 # All combos
 
 ## Normal Hit
@@ -29,5 +27,3 @@
 ### Cornered
 
 - TODO
-
-[Return to character](./)

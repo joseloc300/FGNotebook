@@ -1,24 +1,14 @@
-[Return to character](./)  
-
 # TLDR
 
+## Gameplan
+
+- TODO
+
+## Char specific
+
+- TODO
+
 ## Poke/Spam
-
-- TODO
-
-## Anti-Air
-
-- TODO
-
-## Corner-Carry
-
-- TODO
-
-## Fast Punish
-
-- TODO
-
-## Slow punish
 
 - TODO
 
@@ -32,12 +22,26 @@
 
 - TODO
 
+## Setups
+
+- TODO
+
+## Anti-Air
+
+- TODO
+
+## Corner-Carry
+
+- TODO
+
 ## Corner combo
 
 - TODO
 
-## Char specific
+## Fast Punish
 
 - TODO
 
-[Return to character](./)
+## Slow punish
+
+- TODO

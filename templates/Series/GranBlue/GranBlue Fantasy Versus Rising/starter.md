@@ -1,6 +1,8 @@
-[Return to character](./)  
-
 # Starter
+
+## Char specific
+
+- TODO
 
 ## Safe ender
 
@@ -44,9 +46,3 @@
 - c.XXX > TODO > 
   - super - if you have it
   - TODO - if you don't
-
-## Char specific
-
-- TODO
-
-[Return to character](./)
