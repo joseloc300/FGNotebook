@@ -48,7 +48,7 @@ GEM
       net-http (~> 0.5)
     ffi (1.17.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
-    gemoji (3.0.1)
+    gemoji (4.1.0)
     github-pages (232)
       github-pages-health-check (= 1.18.2)
       jekyll (= 3.10.0)
@@ -243,7 +243,7 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.7)
+    public_suffix (5.1.1)
     racc (1.8.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
@@ -276,8 +276,6 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  bigdecimal
-  csv
   github-pages
 
 CHECKSUMS
@@ -303,7 +301,7 @@ CHECKSUMS
   faraday-net_http (3.4.2) sha256=f147758260d3526939bf57ecf911682f94926a3666502e24c69992765875906c
   ffi (1.17.3-x64-mingw-ucrt) sha256=5f1d7d067a9a1058ad183dba25b05557cd51c85fc1768c49338eabc1cf242d7c
   forwardable-extended (2.6.0) sha256=1bec948c469bbddfadeb3bd90eb8c85f6e627a412a3e852acfd7eaedbac3ec97
-  gemoji (3.0.1) sha256=80553f2f4932a7a95fb1b3c7c63f7dd937e7c8c610164bbdea28fd06eba5f36d
+  gemoji (4.1.0) sha256=734434020cbe964ea9d19086798797a47d23a170892de0ce55b74aa65d2ddc1a
   github-pages (232) sha256=2b40493d7327627e4ce45c47f4a9d4394e5eaa151f9d29bb924ff424c3132287
   github-pages-health-check (1.18.2) sha256=df893d4f5a4161477e8525b993dbe1c1eb63fbb86fb07b6e80996fd37a18843d
   html-pipeline (2.14.3) sha256=8a1d4d7128b2141913387cac0f8ba898bb6812557001acc0c2b46910f59413a0
@@ -359,7 +357,7 @@ CHECKSUMS
   nokogiri (1.18.10-x64-mingw-ucrt) sha256=64f40d4a41af9f7f83a4e236ad0cf8cca621b97e31f727b1bebdae565a653104
   octokit (4.25.1) sha256=c02092ee82dcdfe84db0e0ea630a70d32becc54245a4f0bacfd21c010df09b96
   pathutil (0.16.2) sha256=e43b74365631cab4f6d5e4228f812927efc9cb2c71e62976edcb252ee948d589
-  public_suffix (4.0.7) sha256=8be161e2421f8d45b0098c042c06486789731ea93dc3a896d30554ee38b573b8
+  public_suffix (5.1.1) sha256=250ec74630d735194c797491c85e3c6a141d7b5d9bd0b66a3fa6268cf67066ed
   racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
   rb-fsevent (0.11.2) sha256=43900b972e7301d6570f64b850a5aa67833ee7d87b458ee92805d56b7318aefe
   rb-inotify (0.11.1) sha256=a0a700441239b0ff18eb65e3866236cd78613d6b9f78fea1f9ac47a85e47be6e
